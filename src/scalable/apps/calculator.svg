@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient944" x1="-39" x2="-5" y1="11" y2="11" gradientTransform="translate(54 1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4ae7fb" offset="0"/>
+   <stop stop-color="#30bcf1" offset="1"/>
+  </linearGradient>
+  <filter id="filter1030" x="-.054905" y="-.18668" width="1.1098" height="1.3734" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.77781787"/>
+  </filter>
+  <linearGradient id="linearGradient860" x1="43.381" x2="9.5" y1="46.814" y2="2" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7e8790" offset="0"/>
+   <stop stop-color="#99abbd" offset="1"/>
+  </linearGradient>
+ </defs>
+ <filter id="d" x="-.010376" y="-.008932" width="1.0208" height="1.0179" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="1.7337273"/>
+ </filter>
+ <rect x="9.5" y="2" width="45" height="60" ry="2" fill="url(#linearGradient860)"/>
+ <rect transform="matrix(.98917 0 0 .95361 50.469 1.8196)" x="-35.875" y="6" width="34" height="10" ry="1" filter="url(#filter1030)" opacity=".6"/>
+ <rect x="15" y="7" width="34" height="10" ry="1" fill="url(#linearGradient944)"/>
+ <g transform="translate(50.875 1)">
+  <rect x="-35.875" y="22.738" width="10" height="10" ry="1" fill="#cbd2da"/>
+  <rect x="-11.875" y="34.898" width="10" height="22" ry="1" fill="#134584"/>
+  <g fill="#cbd2da">
+   <rect x="-23.875" y="22.738" width="10" height="10" ry="1"/>
+   <rect x="-11.875" y="22.738" width="10" height="10" ry="1"/>
+   <rect x="-35.875" y="34.898" width="10" height="10" ry="1"/>
+   <rect x="-35.875" y="46.898" width="10" height="10" ry="1"/>
+   <rect x="-23.875" y="34.898" width="10" height="10" ry="1"/>
+   <rect x="-23.875" y="46.898" width="10" height="10" ry="1"/>
+  </g>
+ </g>
+</svg>

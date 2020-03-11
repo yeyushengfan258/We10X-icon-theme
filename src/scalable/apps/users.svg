@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1124">
+   <stop stop-color="#2864b4" offset="0"/>
+   <stop stop-color="#0a4682" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1116">
+   <stop stop-color="#28a0f5" offset="0"/>
+   <stop stop-color="#057ddc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1108">
+   <stop stop-color="#50d2ff" offset="0"/>
+   <stop stop-color="#19a0e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1110" x1="-86.517" x2="-86.517" y1="3.4395" y2="17.991" gradientTransform="matrix(.86728 0 0 .86728 78.79 -.58217)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1108"/>
+  <linearGradient id="linearGradient1118" x1="-86.411" x2="-86.411" y1="3.4395" y2="17.991" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1116"/>
+  <linearGradient id="linearGradient1126" x1="-86.411" x2="-86.411" y1="3.4395" y2="17.991" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1124"/>
+  <filter id="filter1170" x="-.092129" y="-.077189" width="1.1843" height="1.1544" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.31484797"/>
+  </filter>
+ </defs>
+ <g fill="#5e4aa6">
+  <circle cx="-330.35" cy="-328.38" r="0" stroke-width=".26458"/>
+  <circle cx="-39.434" cy="6.44" r="0" fill-rule="evenodd" stroke-width=".26458"/>
+  <g transform="translate(2.581 -.053009)" stroke-width=".26458">
+   <circle cx="-322.63" cy="-345.67" r="0"/>
+   <circle cx="-31.726" cy="-10.849" r="0" fill-rule="evenodd"/>
+   <circle cx="-306.92" cy="-328.72" r="0"/>
+  </g>
+ </g>
+ <g transform="matrix(.67626 0 0 .67626 72.161 3.1875)" fill="url(#linearGradient1126)">
+  <path d="m-90.486 12.303v5.1593c0 0.14658 0.05886 0.279 0.15451 0.37465s0.22807 0.15451 0.37465 0.15451h7.1436c0.14658 0 0.279-0.05886 0.37465-0.15451s0.15451-0.22807 0.15451-0.37465v-5.1593c0-2.2719-1.829-4.101-4.101-4.101s-4.101 1.829-4.101 4.101z"/>
+  <circle cx="-86.385" cy="5.5561" r="2.1166"/>
+ </g>
+ <path transform="matrix(.79101 0 0 .72996 77.685 2.0847)" d="m-90.486 12.303v5.1593c0 0.14658 0.05886 0.279 0.15451 0.37465s0.22807 0.15451 0.37465 0.15451h7.1436c0.14658 0 0.279-0.05886 0.37465-0.15451s0.15451-0.22807 0.15451-0.37465v-5.1593c0-2.2719-1.829-4.101-4.101-4.101s-4.101 1.829-4.101 4.101z" filter="url(#filter1170)" opacity=".6"/>
+ <g transform="matrix(.76625 0 0 .76625 75.48 1.5686)" fill="url(#linearGradient1118)">
+  <path d="m-90.486 12.303v5.1593c0 0.14658 0.05886 0.279 0.15451 0.37465s0.22807 0.15451 0.37465 0.15451h7.1436c0.14658 0 0.279-0.05886 0.37465-0.15451s0.15451-0.22807 0.15451-0.37465v-5.1593c0-2.2719-1.829-4.101-4.101-4.101s-4.101 1.829-4.101 4.101z"/>
+  <circle cx="-86.385" cy="5.5561" r="2.1166"/>
+ </g>
+ <path transform="matrix(.86962 0 0 .8025 79.352 .77957)" d="m-90.486 12.303v5.1593c0 0.14658 0.05886 0.279 0.15451 0.37465s0.22807 0.15451 0.37465 0.15451h7.1436c0.14658 0 0.279-0.05886 0.37465-0.15451s0.15451-0.22807 0.15451-0.37465v-5.1593c0-2.2719-1.829-4.101-4.101-4.101s-4.101 1.829-4.101 4.101z" filter="url(#filter1170)" opacity=".6"/>
+ <g transform="translate(.17938 .33304)" fill="url(#linearGradient1110)" stroke-width=".86728">
+  <path d="m0.31295 10.088v4.4746c0 0.12713 0.051048 0.24197 0.134 0.32493 0.082955 0.08296 0.1978 0.134 0.32493 0.134h6.1955c0.12713 0 0.24197-0.05105 0.32493-0.134 0.082955-0.08295 0.134-0.1978 0.134-0.32493v-4.4746c0-1.9704-1.5863-3.5567-3.5567-3.5567-1.9705 0-3.5567 1.5863-3.5567 3.5567z"/>
+  <circle cx="3.8697" cy="4.2365" r="1.8357"/>
+ </g>
+</svg>

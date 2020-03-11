@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1058" x1="-183.26" x2="-133.33" y1="-122.79" y2="-134.57" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3c8cff" offset="0"/>
+   <stop stop-color="#55b4ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(3.7796 0 0 3.7796 7.2403 -10.983)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+ <g transform="matrix(.95009 0 0 .95009 230.97 13.122)">
+  <rect transform="rotate(45)" x="-157.03" y="166.97" width="30" height="18" ry="2" fill="#1955b9"/>
+  <rect transform="rotate(-45)" x="-184.97" y="-138.37" width="55" height="18" ry="2" fill="url(#linearGradient1058)"/>
+ </g>
+</svg>

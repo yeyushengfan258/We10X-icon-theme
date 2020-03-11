@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1005" x1=".73911" x2="16.388" y1="16.296" y2=".64687" gradientTransform="matrix(.99998 0 0 .99998 -.035203 .006595)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00a0ff" offset="0"/>
+   <stop stop-color="#37beff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1072" x1="8.397" x2="8.397" y1="13.274" y2="3.3723" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b7d8f5" offset="0"/>
+   <stop stop-color="#f8fcfd" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1082" cx="8.4727" cy="3.9956" r="1.8772" gradientTransform="matrix(1.1816 1.0623e-7 -1.0451e-7 1.1624 -1.5383 -.64906)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" offset=".18"/>
+   <stop stop-color="#ddf0fc" offset=".6"/>
+   <stop stop-color="#badef9" offset="1"/>
+  </radialGradient>
+  <filter id="filter1106" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.093859583"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m16.404 8.4664c0 0.95152-0.16749 1.8638-0.47463 2.7094-0.2135 0.58767-0.49438 1.1433-0.83391 1.6572-0.14222 0.21608-0.29513 0.42474-0.45745 0.62528-0.51964 0.64178-1.1372 1.2007-1.8304 1.6543-0.2553 0.16717-0.52064 0.32009-0.79535 0.45711-1.0668 0.53388-2.2711 0.8342-3.5456 0.8342s-2.4788-0.30032-3.5456-0.83422c-0.27473-0.13705-0.54039-0.28996-0.79569-0.45711-0.70205-0.45972-1.327-1.0274-1.8508-1.6798-0.16262-0.20216-0.31523-0.41274-0.45745-0.63076-0.33046-0.50538-0.6042-1.0507-0.81348-1.627-0.3071-0.84527-0.47429-1.7572-0.47429-2.7084 0-4.3837 3.5536-7.9373 7.9373-7.9373 2.2005 0 4.1916 0.89546 5.6294 2.3416 0.41435 0.41661 0.78273 0.87927 1.0963 1.3795 0.29644 0.47106 0.54426 0.9758 0.73703 1.5068 0.30718 0.84557 0.47465 1.7579 0.47465 2.7094z" fill="url(#linearGradient1005)" stroke-width=".031006"/>
+ <g transform="matrix(1.0909 0 0 1.0909 -24.588 .20877)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+ <circle cx="8.4665" cy="8.4665" r="4.6279" fill="none" stroke="url(#linearGradient1072)" stroke-width=".79373"/>
+ <g>
+  <g transform="translate(-.0062306)">
+   <circle cx="8.4727" cy="4.1419" r="1.8772" fill="#0074d6" filter="url(#filter1106)"/>
+   <circle cx="8.4727" cy="3.9956" r="1.8772" fill="url(#radialGradient1082)"/>
+  </g>
+  <g transform="translate(.13727)">
+   <g transform="translate(-4.4485,6.601)">
+    <circle cx="8.4727" cy="4.1419" r="1.8772" fill="#0074d6" filter="url(#filter1106)"/>
+    <circle cx="8.4727" cy="3.9956" r="1.8772" fill="url(#radialGradient1082)"/>
+   </g>
+   <g transform="translate(4.1615,6.601)">
+    <circle cx="8.4727" cy="4.1419" r="1.8772" fill="#0074d6" filter="url(#filter1106)"/>
+    <circle cx="8.4727" cy="3.9956" r="1.8772" fill="url(#radialGradient1082)"/>
+   </g>
+  </g>
+ </g>
+</svg>

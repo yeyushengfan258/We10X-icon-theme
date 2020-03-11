@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient835" x1="509.48" x2="452.97" y1="103.96" y2="191.84" gradientTransform="matrix(5.2904 5.5751e-8 -5.5751e-8 5.2904 -2312.5 -942.96)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#697dfa" offset="0"/>
+   <stop stop-color="#2d3c9b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4232">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3426" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(1.4701 0 0 1.4701 -828.58 -1031.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4232"/>
+  <linearGradient id="linearGradient4356" x1="-.5" x2="536" y1="267.75" y2="267.75" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4232"/>
+  <linearGradient id="linearGradient856" x1="86.345" x2="97.988" y1="58.765" y2="56.894" gradientTransform="matrix(.35581 0 0 .35581 8.1561 10.153)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity=".054902" offset=".8249"/>
+   <stop stop-opacity=".027451" offset=".90864"/>
+   <stop stop-opacity=".019608" offset=".92884"/>
+   <stop stop-opacity=".011765" offset=".95191"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b-3" x1="410.79" x2="410.79" y1="546.47" y2="501.28" gradientTransform="matrix(1.3182,0,0,1.3182,-506.82,-658.63)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cfdef0" offset="0"/>
+   <stop stop-color="#f5faff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1013" x1="410.79" x2="410.79" y1="546.47" y2="501.28" gradientTransform="matrix(1.3182,0,0,1.3182,-506.82,-658.63)" gradientUnits="userSpaceOnUse" xlink:href="#b-3"/>
+  <linearGradient id="linearGradient992" x1="369.86" x2="343.45" y1="-43.743" y2="-430.72" gradientUnits="userSpaceOnUse" xlink:href="#b-3"/>
+ </defs>
+ <rect x="2.212" y="2.212" width="59.576" height="59.576" ry="29.788" fill="url(#linearGradient1013)" stroke-width="1.0044"/>
+ <circle cx="-239.71" cy="-250.06" r="0" fill="url(#linearGradient3426)"/>
+ <g transform="matrix(.089182 0 0 .089182 9.31 50.277)">
+  <rect transform="rotate(3.9056)" x="262.38" y="-442.82" width="195.15" height="411.66" ry="25.079" fill="#465ad7"/>
+  <rect transform="rotate(3.9056)" x="260.37" y="-422.12" width="176.12" height="367.26" ry="0" fill="url(#linearGradient992)"/>
+  <rect transform="rotate(-8.6391)" x="83.843" y="-392.97" width="298.99" height="464.95" fill="url(#linearGradient835)"/>
+  <g transform="matrix(5.7046 -.94105 .94105 5.7046 -2565.5 -2842.2)" fill="#fff">
+   <g transform="matrix(.059397 0 0 .059397 387.63 521.12)" fill="#fff" stroke="url(#linearGradient4356)">
+    <g transform="translate(-48.813 -89.137)" fill="#fff" stroke="none">
+     <g id="extension" fill="#fff">
+      <path d="m471.75 255h-38.25v-102c0-28.05-22.95-51-51-51h-102v-38.25c0-35.7-28.05-63.75-63.75-63.75s-63.75 28.05-63.75 63.75v38.25h-102c-28.05 0-51 22.95-51 51v96.9h38.25c38.25 0 68.85 30.6 68.85 68.85s-30.6 68.85-68.85 68.85h-38.25v96.9c0 28.05 22.95 51 51 51h96.9v-38.25c0-38.25 30.6-68.85 68.85-68.85s68.85 30.6 68.85 68.85v38.25h96.9c28.05 0 51-22.95 51-51v-102h38.25c35.7 0 63.75-28.05 63.75-63.75s-28.05-63.75-63.75-63.75z" fill="#fff"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <path d="m38.133 12.659 5.6492 37.184 4.1988 0.28701c1.2362 0.0844 2.2993-0.84305 2.3837-2.0793l2.196-32.165c0.0844-1.2362-0.84305-2.2993-2.0793-2.3837z" fill="url(#linearGradient856)"/>
+ <text transform="rotate(-8.8113)" x="131.10884" y="57.641586" fill="#ffffff" font-family="'TeX Gyre Heros Cn'" font-size="21.634px" font-stretch="condensed" font-weight="bold" letter-spacing="0" stroke-width=".22536" word-spacing="0"><tspan x="131.10884" y="57.641586" stroke-width=".22536">X</tspan></text>
+</svg>

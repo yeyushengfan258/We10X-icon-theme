@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient3789" x1="-3.9687" x2="-3.9687" y1="14.287" y2="5.027" gradientTransform="translate(2.8923,-7.2683)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2dc8f0" offset="0"/>
+   <stop stop-color="#50e6ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3803" x1="-6.6145" x2="-6.6145" y1="5.027" y2="14.287" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2fc3fe" offset="0"/>
+   <stop stop-color="#23aef5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3811" x1="-9.8426" x2="-9.8426" y1="6.6145" y2="14.287" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1ea7f1" offset="0"/>
+   <stop stop-color="#148dd0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3819" x1="-12.7" x2="-12.7" y1="8.7311" y2="14.287" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0978e8" offset="0"/>
+   <stop stop-color="#0467cd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3827" x1="-15.61" x2="-15.61" y1="10.848" y2="14.287" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0171ca" offset="0"/>
+   <stop stop-color="#005ba9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(1.1852 0 0 1.1852 -.97995 1.2248)">
+  <g transform="matrix(.9375 0 0 .9375 17.148 -1.7032)">
+   <rect x="-5.5561" y="2.3812" width="2.9104" height="11.906" fill="url(#linearGradient3789)"/>
+   <rect x="-8.4665" y="4.4978" width="2.9104" height="9.7894" fill="url(#linearGradient3803)"/>
+   <rect x="-11.377" y="6.6145" width="2.9104" height="7.6728" fill="url(#linearGradient3811)"/>
+   <rect x="-14.287" y="8.7311" width="2.9104" height="5.5561" fill="url(#linearGradient3819)"/>
+   <rect x="-16.933" y="10.848" width="2.6458" height="3.4395" fill="url(#linearGradient3827)"/>
+  </g>
+ </g>
+</svg>

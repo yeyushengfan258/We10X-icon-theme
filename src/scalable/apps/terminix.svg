@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="b" x1="520" x2="520.03" y1="44" y2="985.85" gradientTransform="matrix(.016817 0 0 .016817 -.14299 -.14349)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#212427" offset="0"/>
+   <stop stop-color="#333132" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m16.163 6.4486c-0.0185-0.07315-0.03952-0.15135-0.06138-0.2287-0.04204-0.14715-0.08997-0.29596-0.1421-0.44312-0.10847-0.30691-0.23795-0.60623-0.3893-0.90221-0.0639-0.12444-0.13369-0.25141-0.20684-0.37668h-4.23e-4q-0.5146-0.87462-1.2835-1.6438c-1.5496-1.5496-3.4213-2.3249-5.6133-2.3249s-4.0629 0.77524-5.6125 2.3249c-1.5496 1.5496-2.3249 3.4205-2.3249 5.6125s0.77524 4.0637 2.3249 5.6133c1.1444 1.1444 2.4636 1.8658 3.9502 2.1634 0.53728 0.10762 1.0889 0.1606 1.6623 0.1606 2.192 0 4.0637-0.77439 5.6133-2.324 0.81728-0.81728 1.4193-1.7237 1.8052-2.7209 0.28588-0.73907 0.45404-1.5269 0.50365-2.3669 0.01009-0.17153 0.01513-0.34726 0.01513-0.5255 0-0.70208-0.07904-1.3722-0.24048-2.018z" fill="url(#b)" image-rendering="optimizeSpeed" stroke-width=".26355"/>
+ <g transform="translate(-21.834 .89695)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+ <g transform="translate(.29173)" fill="#f2f2f2">
+  <path d="m2.7817 6.1941-0.18198 0.54747 1.8474 0.74102-1.8474 0.74102 0.18198 0.54747 2.3768-1.0065v-0.56406zm2.3734 3.3291v0.56712h2.8356v-0.56712z" enable-background="new"/>
+  <path d="m8.5401 6.1941-0.18198 0.54747 1.8474 0.74102-1.8474 0.74102 0.18198 0.54747 2.3768-1.0065v-0.56406zm2.3734 3.3291v0.56712h2.8356v-0.56712z" enable-background="new"/>
+ </g>
+ <g transform="translate(-48.596 -13.022)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+</svg>

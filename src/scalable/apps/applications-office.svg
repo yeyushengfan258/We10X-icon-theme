@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient923" x1="14.552" x2="27.516" y1="-68.526" y2="-55.561" gradientTransform="translate(-12.435,70.113)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7dd7f5" offset="0"/>
+   <stop stop-color="#3cafd2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-306.41" cy="-329.66" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g transform="translate(.00019009 .00023969)">
+  <g transform="translate(25.83,-8.897)" fill="#5e4aa6" stroke-width=".26458">
+   <circle cx="-322.63" cy="-345.67" r="0"/>
+   <circle cx="-31.726" cy="-10.849" r="0" fill-rule="evenodd"/>
+   <circle cx="-306.92" cy="-328.72" r="0"/>
+  </g>
+  <g transform="translate(-.13229 -.13229)">
+   <rect x="2.1166" y="3.7041" width="12.964" height="12.964" ry=".52916" fill="#aa5a14"/>
+   <rect x="2.1166" y="2.6458" width="12.964" height="12.964" ry=".52916" fill="#e6e6e6"/>
+   <rect x="2.1166" y="1.5875" width="12.964" height="12.964" ry=".52916" fill="url(#linearGradient923)"/>
+   <g transform="translate(24.491 -.10391)" fill="#006e91">
+    <rect x="-20.125" y="5.1309" width="8.4665" height="1.0583" ry=".26458"/>
+    <rect x="-20.125" y="7.909" width="8.4665" height="1.0583" ry=".26458"/>
+    <rect x="-20.125" y="10.687" width="8.4665" height="1.0583" ry=".26458"/>
+   </g>
+   <g transform="translate(-12.171,70.378)" fill="#006e91">
+    <rect x="15.61" y="-69.849" width="1.852" height="2.3812" ry=".92602"/>
+    <rect x="18.432" y="-69.849" width="1.852" height="2.3812" ry=".92602"/>
+    <rect x="21.254" y="-69.849" width="1.852" height="2.3812" ry=".92602"/>
+    <rect x="24.077" y="-69.849" width="1.852" height="2.3812" ry=".92602"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient856" x1="86.345" x2="97.988" y1="58.765" y2="56.894" gradientTransform="matrix(.35581 0 0 .35581 8.1505 10.15)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity=".054902" offset=".8249"/>
+   <stop stop-opacity=".027451" offset=".90864"/>
+   <stop stop-opacity=".019608" offset=".92884"/>
+   <stop stop-opacity=".011765" offset=".95191"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b-3" x1="410.79" x2="410.79" y1="546.47" y2="501.28" gradientTransform="matrix(1.3182 0 0 1.3182 -506.82 -658.63)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cfdef0" offset="0"/>
+   <stop stop-color="#f5faff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1013" x1="410.79" x2="410.79" y1="546.47" y2="501.28" gradientTransform="matrix(1.3182,0,0,1.3182,-506.82,-658.63)" gradientUnits="userSpaceOnUse" xlink:href="#b-3"/>
+  <linearGradient id="linearGradient4281" x1="392.81" x2="366.62" y1="402.18" y2="18.632" gradientUnits="userSpaceOnUse" xlink:href="#b-3"/>
+ </defs>
+ <linearGradient id="a" x1="509.48" x2="452.97" y1="103.96" y2="191.84" gradientTransform="matrix(5.2904 6e-8 -6e-8 5.2904 -2379.8 -500.04)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#dc412d" offset="0"/>
+  <stop stop-color="#c33737" offset="1"/>
+ </linearGradient>
+ <rect x="2.212" y="2.212" width="59.576" height="59.576" ry="29.788" fill="url(#linearGradient1013)" stroke-width="1.0044"/>
+ <g transform="matrix(.089182 0 0 .089182 9.31 10.323)">
+  <g>
+   <rect transform="rotate(3.9056)" x="292.9" y="4.1388" width="195.15" height="411.66" ry="25.079" fill="#d22a2a"/>
+   <path transform="rotate(3.9056)" d="m290.88 24.843h176.12v367.26h-176.12z" fill="url(#linearGradient4281)"/>
+   <path d="m396.26 86.68c32.415 8.4911 51.825 41.609 43.334 74.022l-58.697-15.376c0.0122 3e-3 15.375-58.643 15.363-58.646zm-20.677 11.627-15.376 58.699 58.697 15.376c-8.5008 32.452-41.646 51.816-74.073 43.321-32.427-8.4943-51.797-41.615-43.297-74.067 8.4943-32.427 41.634-51.82 74.049-43.329z" fill="#d22a2a" stroke-width="15.962"/>
+   <path d="m310.81 276.51-1.6112 17.928 106.84 9.6017 1.6112-17.928zm6.9034 59.364-1.6112 17.928 94.696 8.5106 1.6112-17.928z" fill="#d22a2a"/>
+  </g>
+  <path transform="rotate(-8.6391)" d="m16.549 49.945h298.99v464.95h-298.99z" fill="url(#a)"/>
+  <text transform="rotate(-7.9784)" x="146.20186" y="374.68011" fill="#ffffff" font-family="'TeX Gyre Heros Cn'" font-size="242px" font-stretch="condensed" font-weight="bold" letter-spacing="0" stroke-width="2.5208" word-spacing="0"><tspan x="146.20186" y="374.68011" stroke-width="2.5208">I</tspan></text>
+ </g>
+ <path d="m38.127 12.656 5.6492 37.184 4.1988 0.28701c1.2362 0.0844 2.2993-0.84305 2.3837-2.0793l2.196-32.165c0.0844-1.2362-0.84305-2.2993-2.0793-2.3837z" fill="url(#linearGradient856)"/>
+</svg>
