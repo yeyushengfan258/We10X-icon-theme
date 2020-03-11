@@ -1,4 +1,4 @@
-## Tencent Icon Theme
+## Win10X Icon Theme
 A colorful design icon theme for all linux desktops!
 
 ## Install
