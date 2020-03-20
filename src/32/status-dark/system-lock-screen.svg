@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="981"
+     inkscape:window-height="1007"
      id="namedview20"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="9.7445567"
-     inkscape:cy="19.459163"
+     inkscape:zoom="10.429825"
+     inkscape:cx="4.1148192"
+     inkscape:cy="21.27511"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg18" />
   <metadata
@@ -48,55 +48,32 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-40.376953)"
-     id="system-lock-screen">
+     transform="translate(-123)"
+     id="system-lock-screen-3">
     <rect
        style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect1209"
+       id="rect1067"
        width="32"
        height="32"
-       x="40.376953"
-       y="0"
+       x="123"
+       y="1.0960464e-07"
        rx="0"
        ry="0" />
     <g
-       transform="translate(34.376997,44.99956)"
-       id="g1308">
-      <g
-         id="g1302">
-        <path
-           transform="rotate(-90)"
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fafafa;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
-           id="path1271"
-           sodipodi:type="arc"
-           sodipodi:cx="28.99855"
-           sodipodi:cy="21.999956"
-           sodipodi:rx="10.000031"
-           sodipodi:ry="10.000031"
-           sodipodi:start="1.5707963"
-           sodipodi:end="4.712389"
-           sodipodi:open="true"
-           d="m 28.998551,31.999988 a 10.000031,10.000031 0 0 1 -8.660282,-5.000016 10.000031,10.000031 0 0 1 0,-10.000032 10.000031,10.000031 0 0 1 8.660282,-5.000015" />
-        <path
-           d="m -16.755156,-30.410618 a 5.5240893,5.5240893 0 0 1 -6.608991,-4.078749 5.5240893,5.5240893 0 0 1 4.000915,-6.656399 5.5240893,5.5240893 0 0 1 6.702888,3.922531"
-           sodipodi:open="true"
-           sodipodi:end="6.0213859"
-           sodipodi:start="1.344201"
-           sodipodi:ry="5.5240893"
-           sodipodi:rx="5.5240893"
-           sodipodi:cy="-35.793495"
-           sodipodi:cx="-17.996204"
-           sodipodi:type="arc"
-           id="path1292"
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fafafa;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
-           transform="rotate(60)" />
-        <circle
-           r="1.9999996"
-           cy="-26"
-           cx="21.999956"
-           id="circle1297"
-           style="opacity:1;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.66666603;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
-      </g>
+       transform="translate(-4,-63)"
+       id="g1602">
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.80622578;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 130,79 v 13 h 26 V 79 Z m 1,1 h 24 v 11 h -24 z"
+         id="rect1564" />
+      <path
+         sodipodi:nodetypes="ssccsssccss"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.8326664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 143,66 c -4.432,0 -8,3.568 -8,8 v 5 h 1 v -5 c 0,-3.878 3.122,-7 7,-7 3.878,0 7,3.122 7,7 v 5 h 1 v -5 c 0,-4.432 -3.568,-8 -8,-8 z"
+         id="rect1566" />
     </g>
   </g>
 </svg>

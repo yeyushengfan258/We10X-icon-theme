@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient894" x1=".52916" x2="16.404" y1="14.42" y2="2.5135" gradientTransform="matrix(1 0 0 1.1111 0 -.94071)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e1a000" offset="0"/>
+   <stop stop-color="#ffc832" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-312.93" cy="-341.25" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <rect x=".52915" y="1.8521" width="15.875" height="13.229" ry="1.1911" fill="url(#linearGradient894)" fill-rule="evenodd" stroke-width="1.0541" style="paint-order:stroke fill markers"/>
+ <g fill="#fff">
+  <path d="m1.6014 1.8521c-0.14543 0-0.28356 0.032922-0.40979 0.090719-0.013902 0.00648-0.026708 0.014814-0.040307 0.021819-0.36707 0.18867-0.62217 0.5984-0.62217 1.0789v0.1424h15.875v-0.1424c0-0.65989-0.47785-1.1914-1.0717-1.1914z" fill-rule="evenodd" opacity=".35" stroke-width="1.0541" style="paint-order:stroke fill markers"/>
+  <rect x="7.1437" y="2.3104" width="2.6458" height=".52918" ry=".26459" style="paint-order:stroke markers fill"/>
+  <rect x="2.5764" y="2.3104" width="1.0583" height=".52918" ry=".26459" style="paint-order:stroke markers fill"/>
+  <rect x="13.827" y="2.3104" width=".52917" height=".52918" ry=".26459" style="paint-order:stroke markers fill"/>
+  <rect x="12.769" y="2.3104" width=".79375" height=".52918" ry=".26459" style="paint-order:stroke markers fill"/>
+  <rect x="11.975" y="2.3104" width=".52917" height=".52918" ry=".26459" style="paint-order:stroke markers fill"/>
+  <path d="m3.9687 14.023c-0.29316 0-0.52916 0.23601-0.52916 0.52916v0.52916h10.054v-0.52916c0-0.29316-0.23601-0.52916-0.52916-0.52916z" opacity=".35" stroke-width=".26458" style="paint-order:stroke markers fill"/>
+  <rect x="4.4979" y="13.233" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
+  <rect x="6.7028" y="13.233" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
+  <rect x="8.9076" y="13.233" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
+  <rect x="11.112" y="13.233" width="1.3229" height="1.3229" ry=".13229" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>

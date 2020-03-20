@@ -18,27 +18,22 @@
    <stop stop-color="#50d2ff" offset="0"/>
    <stop stop-color="#19a0e6" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1052" x1="80.271" x2="139.46" y1="24.712" y2="84.373" gradientTransform="translate(-78 -21.695)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2864b4" offset="0"/>
-   <stop stop-color="#0a4682" offset="1"/>
-  </linearGradient>
   <linearGradient id="linearGradient1156" x1="12.692" x2="51.5" y1="9.5" y2="59.5" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1108"/>
-  <filter id="filter1168" x="-.094769" y="-.075429" width="1.1895" height="1.1509" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="1.54"/>
+  <filter id="filter888" x="-.094769" y="-.075429" width="1.1895" height="1.1509" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.5399996"/>
   </filter>
  </defs>
  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
- <circle cx="32" cy="32.305" r="30" fill="url(#linearGradient1052)"/>
  <g transform="matrix(3.7796 0 0 3.7796 -79.981 84.574)" fill="#5e4aa6" stroke-width=".26458">
   <circle cx="-322.63" cy="-345.67" r="0"/>
   <circle cx="-31.726" cy="-10.849" r="0" fill-rule="evenodd"/>
   <circle cx="-306.92" cy="-328.72" r="0"/>
  </g>
- <g transform="matrix(.77058 0 0 .7537 7.3413 6.0271)" filter="url(#filter1168)" opacity=".6">
-  <path d="m12.5 54v3.5c0 0.554 0.22248 1.0545 0.58398 1.416s0.86202 0.58398 1.416 0.58398h35c0.554 0 1.0545-0.22248 1.416-0.58398s0.58398-0.86202 0.58398-1.416v-3.5c0-10.803-8.697-19.5-19.5-19.5s-19.5 8.697-19.5 19.5z" opacity="1"/>
-  <circle cx="32" cy="21.5" r="11" opacity="1"/>
+ <g transform="matrix(1.1224 0 0 1.1224 -3.9183 -7.2857)" filter="url(#filter888)" opacity=".2">
+  <path d="m12.5 54v3.5c0 0.554 0.22248 1.0545 0.58398 1.416s0.86202 0.58398 1.416 0.58398h35c0.554 0 1.0545-0.22248 1.416-0.58398s0.58398-0.86202 0.58398-1.416v-3.5c0-10.803-8.697-19.5-19.5-19.5s-19.5 8.697-19.5 19.5z"/>
+  <circle cx="32" cy="21.5" r="11"/>
  </g>
- <g transform="matrix(.76923 0 0 .76923 7.3846 5.0769)" fill="url(#linearGradient1156)">
+ <g transform="matrix(1.1224 0 0 1.1224 -3.9183 -7.2857)" fill="url(#linearGradient1156)">
   <path d="m12.5 54v3.5c0 0.554 0.22248 1.0545 0.58398 1.416s0.86202 0.58398 1.416 0.58398h35c0.554 0 1.0545-0.22248 1.416-0.58398s0.58398-0.86202 0.58398-1.416v-3.5c0-10.803-8.697-19.5-19.5-19.5s-19.5 8.697-19.5 19.5z"/>
   <circle cx="32" cy="21.5" r="11"/>
  </g>

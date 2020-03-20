@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient912" x1="9.0937" x2="9.0937" y1="14.916" y2="2.017" gradientTransform="matrix(1.0235 0 0 1.0235 -.047072 -.35069)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e1a000" offset="0"/>
+   <stop stop-color="#ffc832" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+  <circle cx="-328.8" cy="-330.45" r="0"/>
+ </g>
+ <circle cx="8.6183" cy="8.3147" r="6.6145" fill="url(#linearGradient912)"/>
+ <g transform="matrix(.59327 0 0 .58932 3.3847 3.7996)" fill="#fff">
+  <path d="m7.2242 8.556v0.39835s0.10755 0.85578-0.50008 1.1723c-0.60764 0.31647-2.6192 1.2658-2.7272 1.4416-0.10802 0.17582-0.26993 0.68298 0.18917 0.81192h8.7592c0.45911-0.12893 0.2972-0.6361 0.18917-0.81192s-2.1196-1.1251-2.7272-1.4416c-0.60764-0.31647-0.50008-1.1723-0.50008-1.1723v-0.39835h-1.3415z"/>
+  <g transform="translate(.10535)">
+   <path d="m10.452 6.6018c-0.26458 1.8862-0.88842 2.8929-1.9843 2.8929-1.0959 1e-7 -1.7198-1.0067-1.9843-2.8929-0.2414-1.7209 0-3.1436 1.9843-3.1436s2.2257 1.4227 1.9843 3.1436z"/>
+   <path d="m10.492 6.1701s0.6201-0.024804 0.45474 0.5953c-0.16536 0.6201-0.47955 1.2816-0.82681 1.356-0.34726 0.074413 0.27285-1.9265 0.37206-1.9513z"/>
+   <path d="m6.4284 6.1117s-0.6201-0.024804-0.45474 0.5953c0.16536 0.6201 0.47955 1.2816 0.82681 1.356 0.34726 0.074413-0.27285-1.9265-0.37206-1.9513z"/>
+   <path d="m10.452 6.6018c-0.26458 1.8862-0.88842 2.8929-1.9843 2.8929-1.0959 1e-7 -1.7198-1.0067-1.9843-2.8929-0.2414-1.7209 0-3.1436 1.9843-3.1436s2.2257 1.4227 1.9843 3.1436z"/>
+  </g>
+ </g>
+</svg>

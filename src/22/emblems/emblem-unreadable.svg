@@ -1,10 +1,1 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight { color:#3daee9; }
-   .ColorScheme-Text { color:#232629; }</style>
- <g transform="translate(-17.525 -13.89)">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-32.89" y="-36.025" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-31.89" y="-36.025" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="#f22c42"/>
-  <path d="m24.379 28.536 8.1607-8.1538" enable-background="new" fill="none" stroke="#fff" stroke-width="1px"/>
-  <path d="m32.54 28.536-8.1607-8.1538" enable-background="new" fill="none" stroke="#fff" stroke-width="1px"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 5.821 5.821"><g transform="matrix(.72727 0 0 .72727 3.295 -210.78)"><rect ry="2.91" rx="2.91" y="-2.381" x="-296.735" height="5.821" width="5.821" transform="matrix(0 -1 -1 0 0 0)" fill="#d32f2f"/><path d="M-1.587 292.767l2.116 2.116M.53 292.767l-2.118 2.116" fill="none" stroke="#fff" stroke-width=".661" stroke-linecap="square"/></g></svg>

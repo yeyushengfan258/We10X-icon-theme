@@ -1,1 +1,8 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M10 .469V3H7v1h4V2.531L14.406 5.5 11 8.469V7H6V4.469l-.813.656L0 9.5l5.188 4.375.812.656V12h3v-1H5V12.469L1.594 9.5 5 6.531V8h5V10.531l.063-.031C10.316 9.098 11.527 8 13 8c.043 0 .083-.002.125 0L16 5.5l-5.188-4.375L10 .469zM13 9c-1.108 0-2 .91-2 2.031V12h-1v4h6v-4h-1v-.969C15 9.911 14.108 9 13 9zm0 1c.554 0 1 .442 1 1v1h-2v-1c0-.558.446-1 1-1z" fill="#bebebe"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.5,4 C 2.0147,4 0,6.0147 0,8.5 0,10.985 2.0147,13 4.5,13 6.4047,12.997 8.101,11.796 8.736,10 L 12,9.996 V 11.996 H 15 V 9.992 L 16,9.996 V 6.9961 L 8.736,7 C 8.101,5.2044 6.405,4.0029 4.5003,4.0002 Z M 4.5,7 C 5.3284,7 6,7.672 6,8.5 6,9.328 5.3284,10 4.5,10 3.6716,10 3,9.328 3,8.5 3,7.672 3.6716,7 4.5,7 Z"/>
+</svg>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <clipPath id="clipPath13429">
    <path d="m481 318h22v22h-22z"/>
@@ -296,7 +296,7 @@
   </linearGradient>
   <linearGradient id="linearGradient1985" x1="9.7894" x2="17.727" y1="-22.754" y2="-30.691" gradientTransform="translate(-9.248 35.294)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#134629" offset="0"/>
-   <stop stop-color="#168f51" offset="1"/>
+   <stop stop-color="#2ca75d" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2049" x1="82" x2="82" y1="-112" y2="-126" gradientTransform="matrix(.26458 0 0 .26458 -14.01 34.527)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#139252" offset="0"/>
@@ -323,13 +323,17 @@
    <stop stop-color="#1fca79" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2097" x1="-27.781" x2="-27.781" y1="-26.092" y2="-22.425" gradientTransform="translate(14.01,34.527)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#179e5a" offset="0"/>
-   <stop stop-color="#1ab467" offset="1"/>
+   <stop stop-color="#14a25c" offset="0"/>
+   <stop stop-color="#1bb869" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient2105" x1="27.781" x2="27.781" y1="-18.785" y2="-22.489" gradientTransform="translate(-14.01,34.527)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#26623c" offset="0"/>
-   <stop stop-color="#255f3a" offset="1"/>
+  <linearGradient id="linearGradient2105" x1="25.593" x2="31.111" y1="-20.627" y2="-20.627" gradientTransform="translate(-14.01,34.527)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#184f2f" offset="0"/>
+   <stop stop-color="#286941" offset="1"/>
   </linearGradient>
+  <filter id="filter2011" x="-.084" y="-.084" width="1.168" height="1.168" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.27780551"/>
+  </filter>
+  <linearGradient id="linearGradient2015" x1="9.7894" x2="17.727" y1="-22.754" y2="-30.691" gradientTransform="translate(-8.7188 35.823)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1985"/>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -996,6 +1000,7 @@
    </g>
   </g>
  </g>
+ <path transform="scale(.26458)" d="m20.047 4.5c-0.83098 0-1.5808 0.33469-2.123 0.87695-0.54226 0.54226-0.87695 1.2921-0.87695 2.123v10.75h0.001953v13.75 13.75 10.75c0 0.83098 0.33473 1.5808 0.87695 2.123 0.54226 0.54226 1.2921 0.87695 2.123 0.87695h19.502 19.498c0.83098 0 1.5808-0.33469 2.123-0.87695 0.54226-0.54226 0.87695-1.2921 0.87695-2.123v-10.75-13.75-13.75h0.003906v-10.75c0-0.83098-0.33469-1.5808-0.87695-2.123-0.54226-0.54226-1.2921-0.87695-2.123-0.87695h-19.5v13.75h-0.003906-0.001953v-13.75h-19.5z" fill="#154628" stroke-width="3.7796"/>
  <g transform="translate(0,5.35e-4)">
   <path d="m5.304 1.19c-0.21986 0-0.41824 0.08855-0.56171 0.23202s-0.23202 0.34185-0.23202 0.56171v2.8442h5.953v-3.6379z" fill="url(#linearGradient2049)"/>
   <rect x="4.511" y="4.828" width="5.953" height="3.638" fill="url(#linearGradient2057)"/>
@@ -1007,7 +1012,10 @@
   <path d="m16.417 12.104v2.8442c0 0.21986-0.08855 0.41824-0.23202 0.56171s-0.34185 0.23202-0.56171 0.23202h-5.1593v-3.6379z" fill="url(#linearGradient2105)"/>
  </g>
  <g transform="translate(0 -.10515)">
+  <rect transform="matrix(.97635 0 0 .97635 .009564 .1056)" x="1.0712" y="5.1322" width="7.9373" height="7.9373" ry=".79373" filter="url(#filter2011)" opacity=".5" stroke="url(#linearGradient2015)" stroke-width=".052916"/>
   <rect x=".542" y="4.603" width="7.9373" height="7.9373" ry=".79373" fill="url(#linearGradient1946)" stroke="url(#linearGradient1985)" stroke-width=".052916"/>
-  <text transform="scale(1.0526 .95002)" x="2.4452348" y="11.250566" fill="#ffffff" font-family="'Bitstream Vera Sans Mono'" font-size="6.1123px" font-weight="bold" letter-spacing="0px" stroke-width=".15282" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="2.4452348" y="11.250566" fill="#ffffff" font-family="'Bitstream Vera Sans Mono'" font-size="6.1123px" font-weight="bold" stroke-width=".15282" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">X</tspan></text>
+  <g transform="scale(1.0526 .95002)" fill="#fff" stroke-width=".15282" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="X">
+   <path d="m6.0446 11.251h-0.91028l-0.85059-1.4744-0.8476 1.4744h-0.91028l1.3072-2.2623-1.2714-2.1936h0.91028l0.81179 1.4176 0.81477-1.4176h0.91028l-1.2654 2.1936z" fill="#fff" stroke-width=".15282" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  </g>
  </g>
 </svg>

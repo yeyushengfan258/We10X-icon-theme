@@ -6,7 +6,7 @@
    <stop stop-color="#01a1f3" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient935" x1="1.5897" x2="15.587" y1="8.9202" y2="8.9202" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1008"/>
-  <linearGradient id="linearGradient1083" x1="-1.2007" x2="13.174" y1="10.369" y2="10.369" gradientTransform="matrix(1.0463 0 0 1.1557 -.27746 -1.614)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient1083" x1="-1.2007" x2="13.174" y1="10.369" y2="10.369" gradientTransform="matrix(1.0463 0 0 1.1557 2.2023 -3.5168)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#7d8791" offset="0"/>
    <stop stop-color="#96aab9" offset="1"/>
   </linearGradient>
@@ -20,65 +20,67 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <rect transform="rotate(-15)" x="-1.5339" y="6.9557" width="15.041" height="6.827" ry=".22757" fill="url(#linearGradient1083)" stroke-width=".81844"/>
- <rect transform="rotate(-15)" x="-.86763" y="7.5524" width="13.709" height="5.6337" ry=".18779" fill="#141414" stroke-width=".70978"/>
- <g fill="url(#linearGradient935)">
-  <g transform="matrix(.68559 -.1837 .1837 .68559 3.7881 16.039)">
-   <rect x="-.26458" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="1.2964" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="2.8574" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="4.4185" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="5.9795" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="7.5405" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="9.1015" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="10.662" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="12.224" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="13.785" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="15.346" y="-10.98" width="3.1749" height="1.3229" ry="0"/>
+ <g transform="matrix(1.0906 0 0 1.0906 -.76698 -.76706)">
+  <rect x=".94586" y="5.0529" width="15.041" height="6.827" ry=".22757" fill="url(#linearGradient1083)" stroke-width=".81844"/>
+  <rect x="1.6121" y="5.6496" width="13.709" height="5.6337" ry=".18779" fill="#141414" stroke-width=".70978"/>
+  <g transform="rotate(15 8.4664 8.4664)" fill="url(#linearGradient935)">
+   <g transform="matrix(.68559 -.1837 .1837 .68559 3.7881 16.039)">
+    <rect x="-.26458" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="1.2964" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="2.8574" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="4.4185" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="5.9795" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="7.5405" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="9.1015" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="10.662" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="12.224" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="13.785" y="-10.98" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="15.346" y="-10.98" width="3.1749" height="1.3229" ry="0"/>
+   </g>
+   <g transform="matrix(.68559 -.1837 .1837 .68559 3.7881 16.039)">
+    <rect x=".13229" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="1.7065" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="3.2808" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="4.855" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="6.4292" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="8.0035" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="9.5777" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="11.152" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="12.726" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="15.875" y="-9.3925" width="2.6458" height="1.3229" ry="0"/>
+    <rect x="14.3" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+   </g>
+   <g transform="matrix(.68559 -.1837 .1837 .68559 3.8123 16.129)">
+    <rect x="-.26458" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="1.3229" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="2.9104" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="4.4978" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="6.0853" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="7.6728" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="9.2602" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="10.848" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="12.435" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="14.023" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="15.61" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="17.198" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+   </g>
+   <g transform="matrix(.68559 -.1837 .1837 .68559 3.8368 16.22)">
+    <rect x="-.26458" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="1.3229" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="2.9104" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="4.4978" y="-6.4822" width="9.2602" height="1.3229" ry="0"/>
+    <rect x="14.023" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="15.61" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
+    <rect x="17.198" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
+   </g>
   </g>
-  <g transform="matrix(.68559 -.1837 .1837 .68559 3.7881 16.039)">
-   <rect x=".13229" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="1.7065" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="3.2808" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="4.855" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="6.4292" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="8.0035" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="9.5777" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="11.152" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="12.726" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="15.875" y="-9.3925" width="2.6458" height="1.3229" ry="0"/>
-   <rect x="14.3" y="-9.3925" width="1.3229" height="1.3229" ry="0"/>
+  <g transform="matrix(.46762 -2.8273e-8 2.8273e-8 .46762 6.2057 14.866)">
+   <rect x="16.142" y="-18.518" width=".52375" height=".38779" ry="0" fill="none" stroke="#fff" stroke-linecap="round" stroke-width=".031867"/>
+   <rect x="16.21" y="-18.276" width=".3886" height=".07958" fill="#fff"/>
   </g>
-  <g transform="matrix(.68559 -.1837 .1837 .68559 3.8123 16.129)">
-   <rect x="-.26458" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="1.3229" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="2.9104" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="4.4978" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="6.0853" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="7.6728" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="9.2602" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="10.848" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="12.435" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="14.023" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="15.61" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="17.198" y="-7.9373" width="1.3229" height="1.3229" ry="0"/>
+  <g transform="matrix(.70977 3.1748e-6 -3.1748e-6 .70977 1.594 19.37)" fill="#fff">
+   <rect transform="rotate(45)" x="-.37417" y="-25.877" width=".35133" height=".058957"/>
+   <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="-26.023" y="-.22798" width=".35133" height=".058957"/>
   </g>
-  <g transform="matrix(.68559 -.1837 .1837 .68559 3.8368 16.22)">
-   <rect x="-.26458" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="1.3229" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="2.9104" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="4.4978" y="-6.4822" width="9.2602" height="1.3229" ry="0"/>
-   <rect x="14.023" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="15.61" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
-   <rect x="17.198" y="-6.4822" width="1.3229" height="1.3229" ry="0"/>
-  </g>
- </g>
- <g transform="matrix(.45169 -.12103 .12103 .45169 7.9391 15.233)">
-  <rect x="16.142" y="-18.518" width=".52375" height=".38779" ry="0" fill="none" stroke="#fff" stroke-linecap="round" stroke-width=".031867"/>
-  <rect x="16.21" y="-18.276" width=".3886" height=".07958" fill="#fff"/>
- </g>
- <g transform="matrix(.68559 -.1837 .1837 .68559 4.6502 20.777)" fill="#fff">
-  <rect transform="rotate(45)" x="-.37417" y="-25.877" width=".35133" height=".058957"/>
-  <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="-26.023" y="-.22798" width=".35133" height=".058957"/>
  </g>
 </svg>

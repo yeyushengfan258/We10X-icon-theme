@@ -1,1 +1,12 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M6 4S4 4 4 6.062V18c0 2 2 2 2 2h12c2 0 2-2 2-2V6s0-2-2-2H6zm2.187 4.324h1.26L11.797 16h-1.075l-.566-2H7.47l-.557 2H5.838l2.35-7.676zm.627.916l-1.093 3.928H9.91L8.814 9.24zm3.682 1.002h.982l1.67 4.832 1.676-4.832h.982L15.762 16h-1.22l-2.046-5.758z" color="#323232" fill="#323232"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <g transform="translate(1,1)">
+  <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
+  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 5.0002424,12.004811 3.9999998,0 m -3.9998998,2.999999 0,-5.9999988 m 3.9998998,5.9999988 0,-5.9999988 m -3.9999998,0 -1.51e-5,-0.9995519 c 0,-1 0,-1 2.0000148,-1.0004491 1.9999854,-4.491e-4 1.9999706,4.491e-4 1.9999854,1.0004491 l 1.47e-5,0.9995519"/>
+  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="M 18.004315,7.0069167 15.504317,15.006917 13.004318,7.0069167"/>
+ </g>
+</svg>

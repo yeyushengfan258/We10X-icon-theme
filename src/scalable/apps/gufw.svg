@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <linearGradient id="linearGradient887" x1="75.452" x2="95.964" y1="148.13" y2="148.13" gradientTransform="matrix(.26458 0 0 .26458 2.6382 -34.804)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#37c8f5" offset="0"/>
@@ -30,8 +30,8 @@
  </metadata>
  <g transform="matrix(.9288 0 0 .95254 -19.165 .27689)">
   <path d="m21.783 8.3588c0.33973 1.4547 0.96954 2.943 2.128 4.0488 3.157 3.0135 5.8388 4.3733 5.8388 4.3733v-8.4221z" fill="url(#linearGradient903)"/>
-  <path d="m21.783 8.3588h7.9668v-7.9399s-1.4019-0.063694-2.0107 0.29145c-0.60882 0.35515-1.7915 1.4412-3.0189 1.7378-0.7423 0.17938-2.9047 0.1142-2.9047 0.1142s-0.25191 0.12468-0.31315 0.69968c-0.01606 0.17665-0.3055 2.5871 0.2806 5.0967z" fill="url(#linearGradient887)"/>
+  <path d="m21.783 8.3588h7.9668l1.4e-4 -7.9724s-1.3863 0.020956-2.0108 0.32393c-0.60882 0.35515-1.7915 1.4412-3.0189 1.7378-0.7423 0.17938-2.6529 0.2615-2.6529 0.2615s-0.50369-0.022625-0.56493 0.55238c-0.01606 0.17665-0.3055 2.5871 0.2806 5.0967z" fill="url(#linearGradient887)"/>
   <path d="m29.75 8.3588v8.4221s2.6818-1.3598 5.8388-4.3733c1.1585-1.1058 1.7877-2.5941 2.1275-4.0488z" fill="url(#linearGradient911)"/>
-  <path d="m29.75 8.3588h7.9663c0.5861-2.5096 0.29717-4.9201 0.28111-5.0967-0.061242-0.57501-0.31367-0.69968-0.31367-0.69968s-2.1762 0.11649-2.9042-0.1142c-1.3888-0.44011-2.4101-1.3827-3.0189-1.7378-0.60882-0.35514-2.0107-0.29145-2.0107-0.29145z" fill="url(#linearGradient895)"/>
+  <path d="m29.75 8.3588h7.9663c0.5861-2.5096 0.29717-4.9201 0.28111-5.0967-0.06124-0.57501-0.50951-0.55244-0.50951-0.55244s-1.9804-0.030745-2.7084-0.26144c-1.3888-0.44011-2.4101-1.3827-3.0189-1.7378-0.61826-0.32138-2.0107-0.324-2.0107-0.324z" fill="url(#linearGradient895)"/>
  </g>
 </svg>

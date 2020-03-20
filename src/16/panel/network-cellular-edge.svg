@@ -1,3 +1,8 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M2.713 2C1.655 1.987.945 2.224.58 2.662.197 3.118 0 3.866 0 4.906v6.188c0 1.04.197 1.788.58 2.244.365.438 1.075.662 2.133.662h10.574c1.058 0 1.77-.224 2.135-.662.383-.456.578-1.204.578-2.244V4.906c0-1.04-.195-1.788-.578-2.244C15.057 2.224 14.345 2 13.287 2zm2.996 2.766h4.367v1.222H7.164v1.27H9.75v1.195H7.164v1.559h3.127v1.222H5.709z" style="line-height:125%;-inkscape-font-specification:Ubuntu;text-align:center" font-weight="400" font-size="15" font-family="Ubuntu" letter-spacing="0" word-spacing="0" text-anchor="middle" fill="#bebebe"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,1 C 3,1 1,1 1,3.06 V 13 C 1,15 3,15 3,15 H 13 C 15,15 15,13 15,13 V 3 C 15,3 15,1 13,1 Z M 6,3 H 12 V 5 H 6 V 7 H 10 V 9 H 6 V 11 H 12 V 13 H 6 C 6,13 4,13 4,11 V 5 C 4,3 6,3 6,3 Z"/>
 </svg>

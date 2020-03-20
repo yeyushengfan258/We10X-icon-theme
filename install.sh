@@ -14,7 +14,7 @@ SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Win10X
 COLOR_VARIANTS=('' '-dark')
-THEME_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-orange' '-brown' '-grey' '-black')
+THEME_VARIANTS=('' '-yellow')
 
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...]"
@@ -140,6 +140,9 @@ while [[ $# -gt 0 ]]; do
       ;;
     -red)
       theme="-red"
+      ;;
+    -yellow)
+      theme="-yellow"
       ;;
     -h|--help)
       usage

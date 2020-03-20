@@ -1,3 +1,13 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M8 0C3.588 0 0 3.588 0 8s3.588 8 8 8 8-3.588 8-8-3.588-8-8-8zm0 1c3.872 0 7 3.128 7 7a6.968 6.968 0 0 1-1.71 4.582L3.417 2.711A6.968 6.968 0 0 1 8 1zM2.711 3.418l9.871 9.871A6.968 6.968 0 0 1 8 15c-3.872 0-7-3.128-7-7 0-1.756.647-3.355 1.711-4.582z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="gray"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#e1e1e1;
+      }
+      </style>
+  </defs>
+ <path style="fill:currentColor;fill-opacity:1;stroke:none" 
+       d="M 8 2 C 4.6862928 2 2 4.6862997 2 8 C 2 11.3137 4.6862928 14 8 14 C 11.313707 14 14 11.3137 14 8 C 14 4.6862997 11.313707 2 8 2 z M 8 3 C 10.761424 3 13 5.2385763 13 8 C 13 9.199635 12.548037 10.263384 11.84375 11.125 L 4.875 4.15625 C 5.7366165 3.4519627 6.8003651 3 8 3 z M 4.15625 4.875 L 11.125 11.84375 C 10.263384 12.548037 9.199635 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 6.8003651 3.4519627 5.7366165 4.15625 4.875 z "
+     class="ColorScheme-Text"
+     />
 </svg>

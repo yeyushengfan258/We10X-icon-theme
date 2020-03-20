@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient984" x1="-78" x2="-38" y1="3.5" y2="3.5" gradientTransform="matrix(1.1111,0,0,1.1111,22.558,-8.8698)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#50e6ff" offset="0"/>
+   <stop stop-color="#50e6ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient992" x1="-78" x2="-38" y1="18.5" y2="18.5" gradientTransform="matrix(1.1111 0 0 1.1111 19.344 -.79383)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2fc3fe" offset="0"/>
+   <stop stop-color="#23aef5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1000" x1="-78" x2="-38" y1="36.5" y2="36.5" gradientTransform="matrix(1.1111 0 0 1.1111 19.344 -.79383)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1ea7f1" offset="0"/>
+   <stop stop-color="#148dd0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1008" x1="-78" x2="-38" y1="50" y2="50" gradientTransform="matrix(1.1111 0 0 1.1111 19.344 -.79383)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0978e8" offset="0"/>
+   <stop stop-color="#0467cd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1016" x1="-78" x2="-38" y1="60" y2="60" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4928"/>
+  <linearGradient id="linearGradient4928" x1="75.494" x2="116.38" y1="-77.894" y2="-77.894" gradientTransform="translate(-21.671,-25)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#184f85" offset="0"/>
+   <stop stop-color="#184f85" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(.92308 0 0 .92308 85.538 2.9231)">
+  <path d="m-75-1c-1.662 0-3 1.338-3 3v59c0 1.662 1.338 3 3 3h34c1.662 0 3-1.338 3-3v-59c0-1.662-1.338-3-3-3z" fill="url(#linearGradient1016)"/>
+  <path d="m-38 56h-40v5c0 1.662 1.338 3 3 3h34c1.662 0 3-1.338 3-3z" fill="url(#linearGradient1016)"/>
+  <path d="m-78 44v12h40v-12z" fill="url(#linearGradient1008)"/>
+  <path d="m-78 29v15h40v-15z" fill="url(#linearGradient1000)"/>
+  <path d="m-78 8v21h40v-21z" fill="url(#linearGradient992)"/>
+  <path d="m-75-1c-1.662 0-3 1.338-3 3v6h40v-6c0-1.662-1.338-3-3-3z" fill="url(#linearGradient984)"/>
+  <g transform="translate(-.5 .5)" fill="#0c63ad">
+   <rect x="-60" y="2" width="9" height="2" ry="1"/>
+   <circle cx="-63" cy="3" r="1"/>
+  </g>
+ </g>
+</svg>

@@ -1,3 +1,8 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M8 3.334C6.486 5.406 5.057 7.924 3.969 10h8.062C10.943 7.925 9.514 5.406 8 3.334zM4 11v2h8v-2z" fill="gray" overflow="visible" style="marker:none" color="#000"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#e1e1e1;
+        }
+    </style>
+    <path d="m8 2-6 8h12zm-6 10v2h12v-2z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

@@ -1,8 +1,1 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight { color:#3daee9; }
-   .ColorScheme-Text { color:#232629; }</style>
- <g transform="translate(-6.8051 -17.992)">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-36.992" y="-25.305" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-35.992" y="-25.305" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="#929ca2"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 5.821 5.821"><rect ry="2.117" rx="2.117" y="-5.027" x="-296.206" height="4.233" width="4.233" transform="matrix(0 -1 -1 0 0 -291.18)" fill="#2196f3"/></svg>
