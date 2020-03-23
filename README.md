@@ -1,4 +1,4 @@
-## McMuse Icon Theme
+## We10X Icon Theme
 A colorful design icon theme for all linux desktops!
 
 ## Install

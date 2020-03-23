@@ -12,7 +12,7 @@ fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=Win10X
+THEME_NAME=We10X
 COLOR_VARIANTS=('' '-dark')
 THEME_VARIANTS=('' '-yellow')
 
