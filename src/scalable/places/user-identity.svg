@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <linearGradient id="linearGradient912" x1="9.0937" x2="9.0937" y1="14.916" y2="2.017" gradientTransform="matrix(1.0235 0 0 1.0235 -.047072 -.35069)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#005aff" offset="0"/>
-   <stop stop-color="#059bff" offset="1"/>
+   <stop stop-color="#e1a000" offset="0"/>
+   <stop stop-color="#ffc832" offset="1"/>
   </linearGradient>
  </defs>
  <metadata>
