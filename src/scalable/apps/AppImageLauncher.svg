@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SimpleNote" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#111" offset="0"/>
+   <stop stop-color="#626262" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.13668 0 0 .13668 162.31 -5.9893)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ccd4da" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient835" x1="-738.76" x2="-738.76" y1="931.43" y2="152.13" gradientTransform="matrix(.13668 0 0 .13668 162.31 -5.9893)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dfe3e8" offset="0"/>
+   <stop stop-color="#fefeff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e-3" x1="32" x2="32" y1="-3.5763" y2="57" gradientTransform="translate(-93.831 13.017)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b-5" x1="124.73" x2="124.87" y1="193.81" y2="232.94" gradientTransform="matrix(1.3333 0 0 1.3333 -228.33 -240.93)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="matrix(.48876 0 0 .48876 .91893 .57952)">
+  <circle cx="63.592" cy="64.286" r="61.38" fill="url(#linearGradient825)"/>
+  <circle cx="63.592" cy="64.286" r="55.09" fill="url(#linearGradient835)"/>
+  <g transform="matrix(1.7485 0 0 1.7485 171.7 -14.425)">
+   <path d="m-61.831 20.017a25 25 0 0 0-25 25 25 25 0 0 0 25 25 25 25 0 0 0 25-25 25 25 0 0 0-25-25zm0 2a23 23 0 0 1 23 23 23 23 0 0 1-23 23 23 23 0 0 1-23-23 23 23 0 0 1 23-23z" fill="url(#e-3)" fill-rule="evenodd" image-rendering="optimizeSpeed" style="paint-order:stroke fill markers"/>
+   <path d="m-51.962 52.006h-19.746c-0.85572 0-1.203-0.60162-0.77521-1.3426l9.8734-17.101c0.4278-0.74109 1.1225-0.74109 1.5504 0l9.8734 17.101c0.4278 0.74097 0.08053 1.3426-0.77522 1.3426z" fill="url(#b-5)" image-rendering="optimizeSpeed" stroke-width="1.3333" style="isolation:isolate"/>
+  </g>
+ </g>
+</svg>

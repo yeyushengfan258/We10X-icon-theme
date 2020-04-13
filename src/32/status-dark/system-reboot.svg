@@ -108,14 +108,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      id="namedview21"
-     showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="2.6319516"
-     inkscape:cy="15.698736"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="-14.588962"
+     inkscape:cy="28.441197"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg19" />
+     inkscape:current-layer="svg19">
+    <inkscape:grid
+       type="xygrid"
+       id="grid835" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -130,7 +134,8 @@
   </metadata>
   <g
      transform="translate(-6.4053807)"
-     id="system-reboot">
+     id="system-reboot-1"
+     inkscape:label="#system-reboot">
     <rect
        style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1129-7"
@@ -178,7 +183,7 @@
   </g>
   <g
      transform="translate(40)"
-     id="system-reboot-3">
+     id="system-reboot">
     <rect
        style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1129-7-6"

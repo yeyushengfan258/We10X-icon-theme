@@ -137,14 +137,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      id="namedview19"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-10.169491"
-     inkscape:cy="28.338983"
+     showgrid="true"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="-21.702808"
+     inkscape:cy="36.359244"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg17" />
+     inkscape:current-layer="svg17">
+    <inkscape:grid
+       type="xygrid"
+       id="grid839" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -158,8 +162,9 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="system-shutdown"
-     transform="translate(-59.932203)">
+     id="system-shutdown-1"
+     transform="translate(-59.932203)"
+     inkscape:label="#system-shutdown">
     <rect
        ry="0"
        rx="0"
@@ -196,7 +201,7 @@
     </g>
   </g>
   <g
-     id="system-shutdown-3">
+     id="system-shutdown">
     <rect
        ry="0"
        rx="0"
