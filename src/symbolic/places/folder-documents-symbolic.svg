@@ -1,3 +1,55 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M1 0v16h9.75L15 11.75V0zm1 1h12v10h-4v4H2zm2 2v1h8V3zm0 2v1h8V5zm0 2v1h8V7zm0 2v1h3V9z" fill="gray" overflow="visible" style="marker:none" color="#000"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-documents-symbolic.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-1.8644068"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ebebeb;fill-opacity:1;stroke-width:0.81249726"
+     class="ColorScheme-Text"
+     d="M 3.1250162,1.5000441 V 14.5 H 12.874984 V 6.3750276 5.5625304 h -0.0063 l 0.0048,-0.00479 L 8.8126428,1.5015879 V 1.5 H 8.623803 8.0001458 3.1251619 Z m 0.812497,0.8124973 H 8 v 4.0624862 h 4.062486 V 13.687503 H 3.9375132 Z m 4.8749838,0.333254 2.921496,2.9167025 H 8.812497 Z"
+     id="path5" />
 </svg>
