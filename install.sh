@@ -36,22 +36,22 @@ install() {
   echo "Installing '${THEME_DIR}'..."
 
   mkdir -p                                                                             ${THEME_DIR}
-  cp -r ${SRC_DIR}/COPYING                                                             ${THEME_DIR}
-  cp -r ${SRC_DIR}/AUTHORS                                                             ${THEME_DIR}
-  cp -r ${SRC_DIR}/src/index.theme                                                     ${THEME_DIR}
+  cp -rp ${SRC_DIR}/COPYING                                                            ${THEME_DIR}
+  cp -rp ${SRC_DIR}/AUTHORS                                                            ${THEME_DIR}
+  cp -rp ${SRC_DIR}/src/index.theme                                                    ${THEME_DIR}
 
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
   if [[ ${color} == '' ]]; then
     mkdir -p                                                                           ${THEME_DIR}/32
-    cp -r ${SRC_DIR}/src/{16,22,24,scalable,symbolic}                                  ${THEME_DIR}
-    cp -r ${SRC_DIR}/src/32/{categories,status}                                        ${THEME_DIR}/32
-    cp -r ${SRC_DIR}/links/{16,22,24,32,scalable,symbolic}                             ${THEME_DIR}
+    cp -rp ${SRC_DIR}/src/{16,22,24,scalable,symbolic}                                 ${THEME_DIR}
+    cp -rp ${SRC_DIR}/src/32/{categories,status}                                       ${THEME_DIR}/32
+    cp -rp ${SRC_DIR}/links/{16,22,24,32,scalable,symbolic}                            ${THEME_DIR}
   fi
 
   if [[ ${color} == '' && ${theme} != '' ]]; then
-    cp -r ${SRC_DIR}/src/colors/color${theme}/*.svg                                    ${THEME_DIR}/scalable/places
+    cp -rp ${SRC_DIR}/src/colors/color${theme}/*.svg                                   ${THEME_DIR}/scalable/places
   fi
 
   if [[ ${color} == '-dark' ]]; then
@@ -60,18 +60,18 @@ install() {
     mkdir -p                                                                           ${THEME_DIR}/24
     mkdir -p                                                                           ${THEME_DIR}/32
 
-    cp -r ${SRC_DIR}/src/16/{actions,devices,places}                                   ${THEME_DIR}/16
-    cp -r ${SRC_DIR}/src/22/actions                                                    ${THEME_DIR}/22
-    cp -r ${SRC_DIR}/src/24/actions                                                    ${THEME_DIR}/24
-    cp -r ${SRC_DIR}/src/32/status${color}                                             ${THEME_DIR}/32/status
+    cp -rp ${SRC_DIR}/src/16/{actions,devices,places}                                  ${THEME_DIR}/16
+    cp -rp ${SRC_DIR}/src/22/actions                                                   ${THEME_DIR}/22
+    cp -rp ${SRC_DIR}/src/24/actions                                                   ${THEME_DIR}/24
+    cp -rp ${SRC_DIR}/src/32/status${color}                                            ${THEME_DIR}/32/status
 
     # Change icon color for dark theme
     sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24}/actions/*
     sed -i "s/#808080/#d3dae3/g" "${THEME_DIR}"/16/{places,devices}/*
 
-    cp -r ${SRC_DIR}/links/16/{actions,devices,places}                                 ${THEME_DIR}/16
-    cp -r ${SRC_DIR}/links/22/actions                                                  ${THEME_DIR}/22
-    cp -r ${SRC_DIR}/links/24/actions                                                  ${THEME_DIR}/24
+    cp -rp ${SRC_DIR}/links/16/{actions,devices,places}                                ${THEME_DIR}/16
+    cp -rp ${SRC_DIR}/links/22/actions                                                 ${THEME_DIR}/22
+    cp -rp ${SRC_DIR}/links/24/actions                                                 ${THEME_DIR}/24
 
     cd ${dest}
     ln -sr ${name}${theme}/scalable ${name}${theme}-dark/scalable
