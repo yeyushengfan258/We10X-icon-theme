@@ -13,5 +13,5 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
  </defs>
  <path class="ColorScheme-Text" d="m-19.018 2v4h1v-3h2v3h1v-4zm-2.293 4-0.707 0.707 5 5 5-5-0.707-0.707-4.293 4.293-1-1zm-1.707 6v2h12v-2h-1v1h-10v-1z" fill="currentColor"/>
- <path d="m5.1455 8.0893h-4.9798l7.8171 7.8171 7.8516-7.8516h-4.9983v-7.9886h-5.687z" fill="#3699e8" stroke="#1c66a5" stroke-width=".13239px"/>
+ <path d="m5.5023 8.0781h-4.3573l6.84 6.84 6.8701-6.8701h-4.3735v-6.99h-4.9761z" fill="#3699e8" stroke="#1c66a5" stroke-width=".11584px"/>
 </svg>
