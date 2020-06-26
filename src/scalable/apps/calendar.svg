@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calendar" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient873" x1="-48.646" x2="-32.772" y1="-3.0915" y2="9.574" gradientTransform="matrix(3.7796 0 0 3.4646 185.86 28.542)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#26b4eb" offset="0"/>
+   <stop stop-color="#017adc" offset="1"/>
+  </linearGradient>
+  <filter id="filter965" x="-.18292" y="-.08269" width="1.3658" height="1.1654" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.12760554"/>
+  </filter>
+ </defs>
+ <path d="m62 17.831h-60.001v41.13c0 1.5234 1.2266 2.75 2.75 2.75h54.502c1.5235 0 2.75-1.2266 2.75-2.75z" fill="url(#linearGradient873)" stroke-width="3.6187"/>
+ <path d="m4.7489 6.7121c-1.5234 0-2.75 1.2266-2.75 2.75v8.3692h60.001v-8.3692c0-1.5234-1.2266-2.75-2.75-2.75z" fill="#056abe" stroke-width="3.6187"/>
+ <g fill="#fff" stroke-width="3.7796">
+  <rect x="10.447" y="47.503" width="6.9998" height="6.9998"/>
+  <rect x="22.561" y="47.503" width="6.9998" height="6.9998"/>
+  <rect x="34.675" y="47.503" width="6.9998" height="6.9998"/>
+ </g>
+ <rect transform="matrix(3.8764 0 0 2.8581 60.152 -95.865)" x="-13.08" y="35.909" width="1.6743" height="3.7036" ry=".83713" filter="url(#filter965)" opacity=".3"/>
+ <rect x="9.5138" y="2.2891" width="6.3282" height="13.998" ry="3.164" fill="#2ecef2" stroke-width="3.7796"/>
+ <rect transform="matrix(3.8764 0 0 2.8581 98.761 -95.865)" x="-13.08" y="35.909" width="1.6743" height="3.7036" ry=".83713" filter="url(#filter965)" opacity=".3"/>
+ <rect x="48.159" y="2.2891" width="6.3282" height="13.998" ry="3.164" fill="#2ecef2" stroke-width="3.7796"/>
+ <text x="8.9930592" y="43.38129" fill="#ffffff" font-family="Hack" font-size="19.331px" font-weight="bold" image-rendering="optimizeSpeed" letter-spacing="0px" stroke-width=".48326" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="8.9930592" y="43.38129" fill="#ffffff" font-family="Hack" font-size="19.331px" font-weight="bold" stroke-width=".48326" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">15</tspan></text>
+</svg>
