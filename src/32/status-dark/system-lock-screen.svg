@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)"
    sodipodi:docname="system-lock-screen.svg"
    id="svg18"
    version="1.1"
@@ -1460,12 +1460,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="29.19563"
-     inkscape:cx="-5.0689611"
-     inkscape:zoom="5.2149126"
+     inkscape:cy="23.947251"
+     inkscape:cx="1.2151515"
+     inkscape:zoom="10.429825"
      showgrid="true"
      id="namedview20"
-     inkscape:window-height="1009"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -1540,7 +1540,7 @@
          cy="-20.5"
          cx="140"
          id="path6762-3"
-         style="fill:none;fill-opacity:1;stroke:#eaeaea;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#191919;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(0.5,1)"
          id="g4050">
@@ -1551,7 +1551,7 @@
              transform="translate(-0.5,0.5)"
              id="g4039">
             <rect
-               style="fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:2.31451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:#191919;fill-opacity:1;stroke:none;stroke-width:2.31451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                id="rect7254"
                width="13"
                height="8"
@@ -1560,7 +1560,7 @@
                ry="1.3333333" />
             <path
                sodipodi:nodetypes="ssscssscsss"
-               style="fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:2.13809;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:#191919;fill-opacity:1;stroke:none;stroke-width:2.13809;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                d="m 140.51675,-29 c -2.216,0 -4,1.560999 -4,3.5 v 4.328124 c 0,1.399387 0.64981,2.591425 2,3.152343 V -25.5 c 0,-0.830999 1.05029,-1.5 2,-1.5 0.94971,0 2,0.669001 2,1.5 v 7.480469 c 1.35019,-0.560919 2,-1.752957 2,-3.152344 v -4.328124 c 0,-1.939 -1.784,-3.5 -4,-3.500001 z"
                id="rect7256"
                inkscape:connector-curvature="0" />

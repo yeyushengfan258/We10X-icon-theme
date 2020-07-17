@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)"
    sodipodi:docname="system-switch-user.svg"
    id="svg12"
    version="1.1"
@@ -56,12 +56,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="8.7942861"
-     inkscape:cx="16.419923"
-     inkscape:zoom="10.429825"
+     inkscape:cy="12.432954"
+     inkscape:cx="14.694663"
+     inkscape:zoom="20.85965"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1009"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -152,7 +152,7 @@
        id="g3983"
        transform="translate(-6,36.499999)">
       <circle
-         style="fill:none;fill-opacity:1;stroke:#eaeaea;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#191919;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle3957"
          cx="185"
          cy="-20.5"
@@ -161,13 +161,13 @@
          transform="translate(-35,3.9999229)"
          id="g3977">
         <circle
-           style="fill:none;stroke:#eaeaea;stroke-width:1.9999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#191919;stroke-width:1.9999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle3882"
            cx="220"
            cy="-27.999949"
            r="4.000051" />
         <path
-           style="fill:none;fill-opacity:1;stroke:#eaeaea;stroke-width:1.7777;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#191919;stroke-width:1.7777;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path3963"
            sodipodi:type="arc"
            sodipodi:cx="220"
