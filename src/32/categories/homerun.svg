@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient873" x1="-48.646" x2="-32.772" y1="-6.3007" y2="9.574" gradientTransform="matrix(3.7796 0 0 3.7796 185.86 25.814)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#28afea" offset="0"/>
+   <stop stop-color="#838be4" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  <style type="text/css"/>
+  <style type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  <style type="text/css"/>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+ </defs>
+ <rect x="2" y="1.9994" width="60.001" height="60.001" ry="3" fill="url(#linearGradient873)" stroke-width="3.7796"/>
+ <rect x="30.377" y="-42.473" width="32" height="32" opacity="0" stroke-width="2.0258" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(2.5 0 0 2.5 -75.5 -13.002)" fill="#fff">
+  <path d="m36.2 9.1986h4c1.108 0 2 0.892 2 2v6.0024s-0.892-0.0024-2-0.0024h-4c-1.108 0-2-0.892-2-2v-4c0-1.108 0.892-2 2-2z"/>
+  <path d="m49.8 9.1986h-4c-1.108 0-2 0.892-2 2v6.0024s0.892-0.0024 2-0.0024h4c1.108 0 2-0.892 2-2v-4c0-1.108-0.892-2-2-2z"/>
+  <path d="m36.2 26.803h4c1.108 0 2-0.892 2-2v-6.0024s-0.892 0.0024-2 0.0024h-4c-1.108 0-2 0.892-2 2v4c0 1.108 0.892 2 2 2z"/>
+  <path d="m49.8 26.803h-4c-1.108 0-2-0.892-2-2v-6.0024s0.892 0.0024 2 0.0024h4c1.108 0 2 0.892 2 2v4c0 1.108-0.892 2-2 2z"/>
+ </g>
+</svg>

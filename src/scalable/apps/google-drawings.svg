@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -11,7 +11,7 @@
  </metadata>
  <defs>
   <style type="text/css"/>
-  <linearGradient id="linearGradient889" x1="-37.488" x2="-31.596" y1="5.903" y2="11.794" gradientTransform="matrix(4.1232,0,0,4.1232,176.54,-2.3643)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient889" x1="-37.488" x2="-31.596" y1="5.903" y2="11.794" gradientTransform="matrix(4.1232 0 0 4.1232 176.54 -2.3642)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ff4b00" offset="0"/>
    <stop stop-color="#f50f2d" offset="1"/>
   </linearGradient>
@@ -139,37 +139,27 @@
 	.st107{fill:#FFCABF;}
 	.st108{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st109{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
- <g transform="translate(.00010026 .00010026)">
-  <g fill="#5e4aa6">
-   <circle cx="-1325.3" cy="-1259.1" r="0"/>
-   <circle cx="-1239.1" cy="-1274.8" r="0"/>
-   <circle cx="-1325.3" cy="-1259.1" r="0"/>
-   <circle cx="-1325.4" cy="-1259.5" r="0"/>
-   <circle cx="-1239.2" cy="-1275.3" r="0"/>
-   <circle cx="-1248.7" cy="-1241.6" r="0"/>
-   <circle cx="-149.15" cy="23.855" r="0" fill-rule="evenodd"/>
-   <g transform="matrix(3.7796 0 0 3.7796 .18834 .62552)" stroke-width=".26458">
-    <circle cx="-351.85" cy="-328.38" r="0"/>
-    <circle cx="-296.85" cy="-354.73" r="0"/>
-    <circle cx="-5.946" cy="-19.912" r="0" fill-rule="evenodd"/>
-    <circle cx="-281.14" cy="-337.78" r="0"/>
-   </g>
+ <g transform="translate(1.0026e-4,1.0026e-4)" fill="#5e4aa6">
+  <circle cx="-1325.3" cy="-1259.1" r="0"/>
+  <circle cx="-1239.1" cy="-1274.8" r="0"/>
+  <circle cx="-1325.3" cy="-1259.1" r="0"/>
+  <circle cx="-1325.4" cy="-1259.5" r="0"/>
+  <circle cx="-1239.2" cy="-1275.3" r="0"/>
+  <circle cx="-1248.7" cy="-1241.6" r="0"/>
+  <circle cx="-149.15" cy="23.855" r="0" fill-rule="evenodd"/>
+  <g transform="matrix(3.7796 0 0 3.7796 .18834 .62552)" stroke-width=".26458">
+   <circle cx="-351.85" cy="-328.38" r="0"/>
+   <circle cx="-296.85" cy="-354.73" r="0"/>
+   <circle cx="-5.946" cy="-19.912" r="0" fill-rule="evenodd"/>
+   <circle cx="-281.14" cy="-337.78" r="0"/>
   </g>
-  <rect x="1.9994" y="1.9994" width="60.001" height="60.001" ry="3.2727" fill="url(#linearGradient889)" stroke-width="3.7796"/>
-  <rect x="6.8488" y="6.8486" width="50.303" height="50.303" ry="2.7437" fill="#f5f5f5" stroke-width="3.1687"/>
-  <g transform="matrix(3.7796 0 0 3.7796 .18834 .62552)" fill="#5e4aa6" stroke-width=".26458">
-   <circle cx="-272.57" cy="-354.73" r="0"/>
-   <circle cx="18.337" cy="-19.912" r="0" fill-rule="evenodd"/>
-   <circle cx="-256.86" cy="-337.78" r="0"/>
-  </g>
-  <path d="m11.832 29.217c6.7246 2.2823-2.8078 8.8905 6.9939 9.5175 5.76 0.36856 5.7153 8.3162 5.7153 8.3162" fill="none" stroke="#191919" stroke-linecap="round" stroke-width="2.0096"/>
-  <g transform="matrix(3.7796,0,0,3.7796,-90.348,325.16)">
-   <g transform="matrix(1.2656,0,0,1.2656,-5.6713,24.145)">
-    <path transform="scale(.26458)" d="m108.64-291.54-1.3125-0.83984-0.0527 0.87695c-0.0246 0.37084 0.38746 0.6095 0.69727 0.4043z" fill="#191919" stroke-width=".035076"/>
-    <path transform="scale(.26458)" d="m107.76-299.67-0.43945 7.293 1.3125 0.83984 6.166-4.0703z" fill="#cdcdcd" stroke-width=".035076"/>
-    <path d="m32.622-85.096c-0.4158-0.05172-0.84179 0.14399-1.0645 0.52967l-3.0463 5.2771 1.8619 1.0748 3.0473-5.2766c0.29701-0.51432 0.12069-1.1718-0.39377-1.4686-0.12854-0.07428-0.26602-0.11918-0.40462-0.13642z" fill="#323232" stroke-width=".0092803"/>
-   </g>
-  </g>
+ </g>
+ <rect x="1.9995" y="1.9995" width="60.001" height="60.001" ry="3.2727" fill="url(#linearGradient889)" stroke-width="3.7796"/>
+ <rect x="6.8489" y="34.354" width="29.857" height="22.797" ry="2.8001" fill="#f5f5f5" stroke-width="1.6434"/>
+ <g transform="matrix(3.7796 0 0 3.7796 .18844 .62562)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-272.57" cy="-354.73" r="0"/>
+  <circle cx="18.337" cy="-19.912" r="0" fill-rule="evenodd"/>
+  <circle cx="-256.86" cy="-337.78" r="0"/>
  </g>
  <style type="text/css">.st0{opacity:0.15;fill:#45413C;}
 	.st1{fill:#FFE500;}
@@ -281,4 +271,10 @@
 	.st107{fill:#FFCABF;}
 	.st108{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st109{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
+ <g fill="#f5f5f5">
+  <circle cx="42.42" cy="31.719" r="15.019"/>
+  <circle cx="8.489" cy="7.5794" r="1.6401"/>
+  <circle cx="13.37" cy="7.5794" r="1.6401"/>
+  <circle cx="18.25" cy="7.5794" r="1.6401"/>
+ </g>
 </svg>
