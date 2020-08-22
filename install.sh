@@ -103,16 +103,24 @@ install() {
 while [[ $# -gt 0 ]]; do
   case "${1}" in
     -d|--dest)
+      if [[ "$#" -eq 1 ]]; then
+        echo "ERROR: The --dest option requires an argument"
+        exit 1
+      fi
       dest="${2}"
+      shift
       if [[ ! -d "${dest}" ]]; then
         echo "ERROR: Destination directory does not exist."
         exit 1
       fi
-      shift 2
       ;;
     -n|--name)
+      if [[ "$#" -eq 1 ]]; then
+        echo "ERROR: The --name option requires an argument"
+        exit 1
+      fi
       name="${2}"
-      shift 2
+      shift
       ;;
     -a|--all)
       all="true"
