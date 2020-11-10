@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="amd-ati.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="4.2260679"
+     inkscape:cx="24.693934"
+     inkscape:cy="10.369043"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <linearGradient
+       id="linearGradient1159-3"
+       x1="-184.75"
+       x2="-170.2"
+       y1="-1.2655"
+       y2="-15.817"
+       gradientTransform="matrix(3.7796 0 0 3.7796 702.82 64.287)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#323232"
+         offset="0"
+         id="stop4" />
+      <stop
+         stop-color="#505050"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <path
+     id="rect877"
+     style="opacity:1;fill:#323232;fill-opacity:1;stroke-width:1.81818"
+     d="m 7,7 13.751775,13.751775 h 22.49645 v 22.49645 L 57,57 V 7 Z M 20.751775,23.248225 7,37 V 57 H 27 L 40.75,43.248225 H 20.751775 Z" />
+</svg>
