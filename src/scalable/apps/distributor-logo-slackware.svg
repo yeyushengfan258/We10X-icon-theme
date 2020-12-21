@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="932"
+     inkscape:window-height="998"
      id="namedview19"
      showgrid="false"
-     inkscape:zoom="2.9882813"
-     inkscape:cx="30.36013"
-     inkscape:cy="52.504495"
+     inkscape:zoom="8.4521359"
+     inkscape:cx="20.312184"
+     inkscape:cy="35.909723"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg17"
      inkscape:document-rotation="0"
@@ -317,7 +317,7 @@
      white-space="normal"
      solid-opacity="1"
      solid-color="#000000"
-     style="color:#000000;display:inline;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:url(#linearGradient999);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.345102;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+     style="color:#000000;display:inline;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:url(#linearGradient999);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.26457812;color-rendering:auto;image-rendering:auto;shape-rendering:auto;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      id="path907" />
   <path
      d="m 3.7975041,10.468438 c -0.1415895,0 -0.2503553,0.118785 -0.2503553,0.21744 v 2.510052 c 0,0.09866 0.078594,0.178074 0.1762135,0.178074 h 8.1058657 c 0.09762,0 0.176214,-0.136754 0.176214,-0.230144 0,-0.133008 -0.07859,-0.245413 -0.176214,-0.24542 l -7.7748955,-6.04e-4 -0.00269,-2.211958 c -8.56e-5,-0.07036 -0.035133,-0.21744 -0.2541374,-0.21744 z"
@@ -326,6 +326,6 @@
      sodipodi:nodetypes="ssssssscsss" />
   <path
      d="m 3.807623,10.537111 c -0.0956,0 -0.17255,0.07696 -0.17255,0.172551 v 2.415714 c 0,0.0956 0.07696,0.17255 0.17255,0.17255 h 7.937344 c 0.09559,0 0.172551,-0.07696 0.172551,-0.17255 0,-0.0956 -0.07696,-0.172551 -0.172551,-0.172551 H 3.980175 v -2.243163 c 0,-0.0956 -0.07696,-0.172551 -0.172552,-0.172551 z"
-     style="fill:#302d41;fill-opacity:1;stroke:none;stroke-width:0.345102"
+     style="fill:#302d41;fill-opacity:1;stroke:#ffffff;stroke-width:0.13228906;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      id="path909" />
 </svg>
