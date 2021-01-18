@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="accessories-calculator.svg"
    id="svg112"
    version="1.1"
@@ -17,14 +17,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg112"
      inkscape:window-maximized="1"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-x="0"
      inkscape:cy="40.97709"
      inkscape:cx="23.082312"
      inkscape:zoom="2.9804688"
      showgrid="false"
      id="namedview114"
-     inkscape:window-height="932"
+     inkscape:window-height="935"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -33,7 +33,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -354,7 +355,8 @@
      cy="139.62"
      cx="-208.81" />
   <g
-     id="g1007">
+     id="g1007"
+     transform="matrix(0.91666667,0,0,0.91666667,2.6666666,2.6666666)">
     <rect
        style="fill:url(#linearGradient860)"
        x="9.5"
