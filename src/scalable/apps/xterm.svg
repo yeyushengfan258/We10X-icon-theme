@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
    sodipodi:docname="xterm.svg"
    id="svg25"
    viewBox="0 0 16.933 16.933"
@@ -30,14 +30,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg25"
      inkscape:window-maximized="1"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-x="0"
      inkscape:cy="20.206379"
      inkscape:cx="-41.259175"
      inkscape:zoom="2.1075097"
      showgrid="false"
      id="namedview27"
-     inkscape:window-height="932"
+     inkscape:window-height="935"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -46,7 +46,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs7">
     <linearGradient
@@ -3208,26 +3209,6 @@
      cy="-342.40009"
      cx="-393.82922"
      style="fill:#5e4aa6;stroke-width:0.26458" />
-  <path
-     id="path2525"
-     fill="url(#linearGradient2556)"
-     d="M 16.403926,4.3146155 H 0.52907245 v 9.5249115 c 0,0.405908 0.32677775,0.732686 0.73268555,0.732686 H 15.67124 c 0.405908,0 0.732686,-0.326778 0.732686,-0.732686 z"
-     style="fill:url(#linearGradient2556);stroke-width:0.244229" />
-  <path
-     id="path2527"
-     fill="url(#linearGradient2652)"
-     d="m 11.111494,2.3607874 v 1.9538281 h 5.291455 V 3.0934729 c 0,-0.4059078 -0.326778,-0.7326855 -0.732686,-0.7326855 z"
-     style="fill:url(#linearGradient2652);stroke-width:0.244229" />
-  <path
-     id="path2529"
-     fill="url(#linearGradient2644)"
-     d="M 5.8215043,2.3607874 V 4.3146155 H 11.113448 V 2.3607874 Z"
-     style="fill:url(#linearGradient2644);stroke-width:0.244229" />
-  <path
-     id="path2531"
-     fill="url(#linearGradient2636)"
-     d="M 0.52907245,3.0934729 V 4.3146155 H 5.8205273 V 2.3607874 H 1.261758 c -0.4059078,0 -0.73268555,0.3267777 -0.73268555,0.7326855 z"
-     style="fill:url(#linearGradient2636);stroke-width:0.244229" />
   <style
      type="text/css"
      id="style2553">.st0{opacity:0.15;fill:#45413C;}
@@ -3341,26 +3322,50 @@
 	.st108{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st109{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
   <g
-     transform="translate(-22.105811,2.3967761)"
-     id="g5465">
+     id="g1609"
+     transform="matrix(0.91665708,0,0,0.91665708,0.70562354,0.70562265)">
+    <path
+       id="path2525"
+       fill="url(#linearGradient2556)"
+       d="M 16.403926,4.3146155 H 0.52907245 v 9.5249115 c 0,0.405908 0.32677775,0.732686 0.73268555,0.732686 H 15.67124 c 0.405908,0 0.732686,-0.326778 0.732686,-0.732686 z"
+       style="fill:url(#linearGradient2556);stroke-width:0.244229" />
+    <path
+       id="path2527"
+       fill="url(#linearGradient2652)"
+       d="m 11.111494,2.3607874 v 1.9538281 h 5.291455 V 3.0934729 c 0,-0.4059078 -0.326778,-0.7326855 -0.732686,-0.7326855 z"
+       style="fill:url(#linearGradient2652);stroke-width:0.244229" />
+    <path
+       id="path2529"
+       fill="url(#linearGradient2644)"
+       d="M 5.8215043,2.3607874 V 4.3146155 H 11.113448 V 2.3607874 Z"
+       style="fill:url(#linearGradient2644);stroke-width:0.244229" />
+    <path
+       id="path2531"
+       fill="url(#linearGradient2636)"
+       d="M 0.52907245,3.0934729 V 4.3146155 H 5.8205273 V 2.3607874 H 1.261758 c -0.4059078,0 -0.73268555,0.3267777 -0.73268555,0.7326855 z"
+       style="fill:url(#linearGradient2636);stroke-width:0.244229" />
     <g
-       id="g19"
-       aria-label="$"
-       fill="#6be54f"
-       transform="translate(20.820703,-0.011633)">
-      <path
-         id="path17"
-         stroke-width="0.12274"
+       transform="translate(-22.105811,2.3967761)"
+       id="g5465">
+      <g
+         id="g19"
+         aria-label="$"
          fill="#6be54f"
-         d="M 5.0469,8.4781 H 5.53296 V 7.90858 c 0.56462,-0.10801 0.86411,-0.5057 0.86411,-1.0409 0,-1.0998 -1.4925,-1.0065 -1.4925,-1.6153 0,-0.27003 0.16202,-0.4075 0.45169,-0.4075 0.25039,0 0.42714,0.1031 0.62844,0.28967 L 6.34802,4.72214 C 6.1369,4.49629 5.88651,4.32445 5.53301,4.27536 V 3.71565 H 5.04695 V 4.28517 C 4.53143,4.383364 4.2123,4.75159 4.2123,5.28677 c 0,1.0261 1.4925,0.96721 1.4925,1.63 0,0.27985 -0.15711,0.43205 -0.50079,0.43205 -0.27985,0 -0.54007,-0.12274 -0.8101,-0.33386 L 4.07478,7.50102 C 4.33499,7.73669 4.71304,7.88889 5.0469,7.92816 Z" />
+         transform="translate(20.820703,-0.011633)">
+        <path
+           id="path17"
+           stroke-width="0.12274"
+           fill="#6be54f"
+           d="M 5.0469,8.4781 H 5.53296 V 7.90858 c 0.56462,-0.10801 0.86411,-0.5057 0.86411,-1.0409 0,-1.0998 -1.4925,-1.0065 -1.4925,-1.6153 0,-0.27003 0.16202,-0.4075 0.45169,-0.4075 0.25039,0 0.42714,0.1031 0.62844,0.28967 L 6.34802,4.72214 C 6.1369,4.49629 5.88651,4.32445 5.53301,4.27536 V 3.71565 H 5.04695 V 4.28517 C 4.53143,4.383364 4.2123,4.75159 4.2123,5.28677 c 0,1.0261 1.4925,0.96721 1.4925,1.63 0,0.27985 -0.15711,0.43205 -0.50079,0.43205 -0.27985,0 -0.54007,-0.12274 -0.8101,-0.33386 L 4.07478,7.50102 C 4.33499,7.73669 4.71304,7.88889 5.0469,7.92816 Z" />
+      </g>
+      <rect
+         id="rect21"
+         opacity="0.35"
+         fill="#6be54f"
+         height="4.7624002"
+         width="2.3812001"
+         y="3.7040999"
+         x="28.228903" />
     </g>
-    <rect
-       id="rect21"
-       opacity="0.35"
-       fill="#6be54f"
-       height="4.7624002"
-       width="2.3812001"
-       y="3.7040999"
-       x="28.228903" />
   </g>
 </svg>

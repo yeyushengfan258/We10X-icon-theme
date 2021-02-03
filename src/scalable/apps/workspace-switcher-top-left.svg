@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
    sodipodi:docname="workspace-switcher-top-left.svg"
    id="svg10"
    version="1.1"
@@ -164,17 +164,17 @@
   <sodipodi:namedview
      inkscape:current-layer="svg10"
      inkscape:window-maximized="1"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="26.353472"
-     inkscape:cx="4.9514492"
-     inkscape:zoom="8.4300387"
+     inkscape:cy="43.812481"
+     inkscape:cx="3.1625635"
+     inkscape:zoom="4.2150194"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
      showgrid="false"
      id="namedview12"
-     inkscape:window-height="932"
+     inkscape:window-height="935"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -183,55 +183,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
-  <g
-     style="image-rendering:optimizeSpeed"
-     id="g909"
-     transform="matrix(0.26457812,0,0,0.26457812,1.6e-7,-2.6522984e-5)">
-    <g
-       id="g883"
-       transform="translate(0,-6)">
-      <rect
-         id="rect875"
-         stroke-width="7.2373"
-         fill="url(#linearGradient851)"
-         ry="0"
-         height="7.0001998"
-         width="11"
-         y="50.969002"
-         x="26.5"
-         style="fill:url(#linearGradient851)" />
-      <rect
-         id="rect877"
-         stroke-width="2.9141"
-         fill="url(#linearGradient865)"
-         ry="1.0191"
-         height="2.0381999"
-         width="35"
-         y="57.962002"
-         x="14.5"
-         style="fill:url(#linearGradient865)" />
-      <rect
-         id="rect879"
-         fill="url(#linearGradient920)"
-         ry="2"
-         height="35"
-         width="60"
-         y="16"
-         x="2"
-         style="fill:url(#linearGradient920)" />
-      <rect
-         id="rect881"
-         stroke-width="0.95216"
-         fill="url(#linearGradient1458)"
-         ry="0.93899"
-         height="30.987"
-         width="56"
-         y="18.007"
-         x="4"
-         style="fill:url(#linearGradient1458)" />
-    </g>
-  </g>
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <circle
      style="fill:url(#b)"
      cx="-13.929783"
@@ -241,43 +194,95 @@
      stroke-width="0.415785"
      id="circle932" />
   <g
-     transform="translate(4.0001788e-8,-3.3550867)"
-     id="g944">
-    <path
-       id="path962"
-       stroke-width="0.140724"
-       fill="url(#linearGradient1044)"
-       d="M 1.2932915,6.5318497 C 1.163169,6.5318492 1.0583189,6.6334101 1.0583189,6.759684 l -6.3e-6,4.387709 c -5e-7,0.126276 0.1048573,0.227834 0.2349726,0.227834 l 6.1445016,1.8e-5 c 0.1301225,1e-6 0.2349726,-0.10156 0.2349726,-0.227834 l 6.4e-6,-4.3877095 c 5e-7,-0.1262753 -0.1048574,-0.2278342 -0.2349726,-0.2278342 z m 0.1081355,1.2184027 5.9286128,1.7e-5 c 0.093549,3e-7 0.1686712,0.073124 0.1686712,0.1639074 l -4.5e-6,3.1543492 c -4e-7,0.09078 -0.075119,0.163908 -0.1686712,0.163908 l -5.9286128,-1.7e-5 c -0.093549,-10e-7 -0.1690042,-0.07312 -0.1690042,-0.163908 l 4.5e-6,-3.154349 c 3e-7,-0.090782 0.075461,-0.1639074 0.1690042,-0.1639076 z"
-       style="fill:url(#linearGradient1044)" />
+     id="g882"
+     transform="matrix(0.91666668,0,0,0.91666668,0.70554155,0.70554155)">
     <g
-       id="g970"
-       fill="#333333"
-       transform="matrix(0.08111101,-0.00967459,0.00996925,0.07871321,-33.488835,-23.351429)">
-      <ellipse
-         id="ellipse964"
-         ry="3.2932"
-         rx="3.1958001"
-         cy="384.48999"
-         cx="498.35001"
-         transform="rotate(7.007)" />
-      <ellipse
-         id="ellipse966"
-         ry="3.2932"
-         rx="3.1958001"
-         cy="384.48999"
-         cx="489.82999"
-         transform="rotate(7.007)" />
-      <ellipse
-         id="ellipse968"
-         ry="3.2932"
-         rx="3.1958001"
-         cy="384.48999"
-         cx="481.31"
-         transform="rotate(7.007)" />
+       style="image-rendering:optimizeSpeed"
+       id="g909"
+       transform="matrix(0.26457812,0,0,0.26457812,1.6e-7,-2.6522984e-5)">
+      <g
+         id="g883"
+         transform="translate(0,-6)">
+        <rect
+           id="rect875"
+           stroke-width="7.2373"
+           fill="url(#linearGradient851)"
+           ry="0"
+           height="7.0001998"
+           width="11"
+           y="50.969002"
+           x="26.5"
+           style="fill:url(#linearGradient851)" />
+        <rect
+           id="rect877"
+           stroke-width="2.9141"
+           fill="url(#linearGradient865)"
+           ry="1.0191"
+           height="2.0381999"
+           width="35"
+           y="57.962002"
+           x="14.5"
+           style="fill:url(#linearGradient865)" />
+        <rect
+           id="rect879"
+           fill="url(#linearGradient920)"
+           ry="2"
+           height="35"
+           width="60"
+           y="16"
+           x="2"
+           style="fill:url(#linearGradient920)" />
+        <rect
+           id="rect881"
+           stroke-width="0.95216"
+           fill="url(#linearGradient1458)"
+           ry="0.93899"
+           height="30.987"
+           width="56"
+           y="18.007"
+           x="4"
+           style="fill:url(#linearGradient1458)" />
+      </g>
     </g>
-    <path
-       d="m 1.3957529,7.7507954 c -0.090781,0 -0.163811,0.07303 -0.163811,0.1638109 v 3.1542677 c 0,0.09078 0.07303,0.163811 0.163811,0.163811 h 5.9385386 c 0.090781,0 0.1638111,-0.07303 0.1638111,-0.163811 V 7.9146063 c 0,-0.090781 -0.07303,-0.1638109 -0.1638111,-0.1638109 z"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.14073"
-       id="rect972" />
+    <g
+       transform="translate(4.0001788e-8,-3.3550867)"
+       id="g944">
+      <path
+         id="path962"
+         stroke-width="0.140724"
+         fill="url(#linearGradient1044)"
+         d="M 1.2932915,6.5318497 C 1.163169,6.5318492 1.0583189,6.6334101 1.0583189,6.759684 l -6.3e-6,4.387709 c -5e-7,0.126276 0.1048573,0.227834 0.2349726,0.227834 l 6.1445016,1.8e-5 c 0.1301225,1e-6 0.2349726,-0.10156 0.2349726,-0.227834 l 6.4e-6,-4.3877095 c 5e-7,-0.1262753 -0.1048574,-0.2278342 -0.2349726,-0.2278342 z m 0.1081355,1.2184027 5.9286128,1.7e-5 c 0.093549,3e-7 0.1686712,0.073124 0.1686712,0.1639074 l -4.5e-6,3.1543492 c -4e-7,0.09078 -0.075119,0.163908 -0.1686712,0.163908 l -5.9286128,-1.7e-5 c -0.093549,-10e-7 -0.1690042,-0.07312 -0.1690042,-0.163908 l 4.5e-6,-3.154349 c 3e-7,-0.090782 0.075461,-0.1639074 0.1690042,-0.1639076 z"
+         style="fill:url(#linearGradient1044)" />
+      <g
+         id="g970"
+         fill="#333333"
+         transform="matrix(0.08111101,-0.00967459,0.00996925,0.07871321,-33.488835,-23.351429)">
+        <ellipse
+           id="ellipse964"
+           ry="3.2932"
+           rx="3.1958001"
+           cy="384.48999"
+           cx="498.35001"
+           transform="rotate(7.007)" />
+        <ellipse
+           id="ellipse966"
+           ry="3.2932"
+           rx="3.1958001"
+           cy="384.48999"
+           cx="489.82999"
+           transform="rotate(7.007)" />
+        <ellipse
+           id="ellipse968"
+           ry="3.2932"
+           rx="3.1958001"
+           cy="384.48999"
+           cx="481.31"
+           transform="rotate(7.007)" />
+      </g>
+      <path
+         d="m 1.3957529,7.7507954 c -0.090781,0 -0.163811,0.07303 -0.163811,0.1638109 v 3.1542677 c 0,0.09078 0.07303,0.163811 0.163811,0.163811 h 5.9385386 c 0.090781,0 0.1638111,-0.07303 0.1638111,-0.163811 V 7.9146063 c 0,-0.090781 -0.07303,-0.1638109 -0.1638111,-0.1638109 z"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.14073"
+         id="rect972" />
+    </g>
   </g>
 </svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg6"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
    sodipodi:docname="shotwell.svg">
   <metadata
      id="metadata962">
@@ -4827,27 +4827,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="90.284677"
-     inkscape:cy="26.672565"
+     inkscape:cx="44.188834"
+     inkscape:cy="23.504394"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="932"
+     inkscape:window-height="935"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-maximized="1" />
   <g
      transform="translate(0,-16.933333)"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       transform="matrix(0.26458333,0,0,0.26458333,0,16.933333)"
-       d="M 5 2 C 3.3380101 2 2 3.3380094 2 5 L 2 59 C 2 60.661991 3.3380101 62 5 62 L 59.001953 62 C 60.663944 62 62.001953 60.661991 62.001953 59 L 62.001953 5 C 62.001953 3.3380094 60.663944 2 59.001953 2 L 5 2 z "
-       style="opacity:1;fill:url(#linearGradient3920);fill-opacity:1;stroke-width:0.2;stroke-linecap:round"
-       id="rect3910" />
     <g
        transform="matrix(0.26458333,0,0,0.26458333,87.950943,39.026754)"
        id="g13037" />
@@ -4997,23 +4992,32 @@
          cy="-326.01001"
          cx="-308.84" />
     </g>
-    <path
-       transform="matrix(0.26458333,0,0,0.26458333,0,16.933333)"
-       d="M 43.628906 29.337891 C 42.182897 29.337891 40.736913 29.892005 39.628906 31 L 8.6289062 62 L 59.001953 62 C 60.663963 62 62.001953 60.662013 62.001953 59 L 62.001953 45.373047 L 47.628906 31 C 46.5209 29.891994 45.074919 29.337891 43.628906 29.337891 z "
-       style="fill:#12c5d3;fill-opacity:1;stroke-width:1.00001"
-       id="path1802" />
-    <path
-       transform="matrix(0.26458333,0,0,0.26458333,0,16.933333)"
-       d="M 23.998047 23.646484 C 22.97994 23.646484 21.961746 24.036319 21.181641 24.816406 L 1.9980469 44 L 1.9980469 59 C 1.9980469 60.662013 3.3360359 62 4.9980469 62 L 58.998047 62 C 60.358257 62 61.489072 61.097827 61.859375 59.861328 L 26.814453 24.816406 C 26.034348 24.0363 25.016153 23.646484 23.998047 23.646484 z "
-       style="fill:#198ad5;fill-opacity:1;stroke-width:1.00001"
-       id="path1804" />
-    <circle
-       style="stroke-width:1.00002"
-       cx="11.112371"
-       cy="21.431025"
-       r="1.3229254"
-       fill="#ffffff"
-       id="circle1806" />
+    <g
+       id="g1733"
+       transform="matrix(0.91660701,0,0,0.91660701,0.70606076,2.118182)">
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,0,16.933333)"
+         d="M 5,2 C 3.3380101,2 2,3.3380094 2,5 v 54 c 0,1.661991 1.3380101,3 3,3 h 54.001953 c 1.661991,0 3,-1.338009 3,-3 V 5 c 0,-1.6619906 -1.338009,-3 -3,-3 z"
+         style="opacity:1;fill:url(#linearGradient3920);fill-opacity:1;stroke-width:0.2;stroke-linecap:round"
+         id="rect3910" />
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,0,16.933333)"
+         d="m 43.628906,29.337891 c -1.446009,0 -2.891993,0.554114 -4,1.662109 L 8.6289062,62 H 59.001953 c 1.66201,0 3,-1.337987 3,-3 V 45.373047 L 47.628906,31 c -1.108006,-1.108006 -2.553987,-1.662109 -4,-1.662109 z"
+         style="fill:#12c5d3;fill-opacity:1;stroke-width:1.00001"
+         id="path1802" />
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,0,16.933333)"
+         d="m 23.998047,23.646484 c -1.018107,0 -2.036301,0.389835 -2.816406,1.169922 L 1.9980469,44 v 15 c 0,1.662013 1.337989,3 3,3 H 58.998047 c 1.36021,0 2.491025,-0.902173 2.861328,-2.138672 L 26.814453,24.816406 c -0.780105,-0.780106 -1.7983,-1.169922 -2.816406,-1.169922 z"
+         style="fill:#198ad5;fill-opacity:1;stroke-width:1.00001"
+         id="path1804" />
+      <circle
+         style="stroke-width:1.00002"
+         cx="11.112371"
+         cy="21.431025"
+         r="1.3229254"
+         fill="#ffffff"
+         id="circle1806" />
+    </g>
   </g>
   <style
      id="style15307"><![CDATA[.B{clip-path:url(#C)}.C{fill:#3e2723}.D{fill-opacity:.15}.E{fill-opacity:.2}]]></style>

@@ -14,7 +14,7 @@
    viewBox="0 0 16.933 16.933"
    id="svg23"
    sodipodi:docname="web-facebook.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <metadata
      id="metadata27">
     <rdf:RDF>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="935"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="4.5906698"
      inkscape:cx="42.141022"
      inkscape:cy="32.109806"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg23"
      inkscape:document-rotation="0" />
@@ -504,7 +504,7 @@
   <g
      style="enable-background:new"
      id="g955"
-     transform="matrix(0.26457812,0,0,0.26457812,-2.5820053e-4,-3.2682374e-7)">
+     transform="matrix(0.24252205,0,0,0.24252205,0.70555758,0.70579395)">
     <path
        d="M 5,2 C 3.3380091,2 2,3.3380091 2,5 v 54 c 0,1.661991 1.3380091,3 3,3 h 54.001953 c 1.661991,0 3,-1.338009 3,-3 V 5 c 0,-1.6619909 -1.338009,-3 -3,-3 z"
        style="color:#000000;fill:url(#radialGradient903);stroke-width:2.41876;enable-background:accumulate"

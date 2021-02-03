@@ -12,7 +12,7 @@
    version="1.1"
    id="svg16"
    sodipodi:docname="yast-software-group.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -513,76 +513,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="935"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="2.1075097"
-     inkscape:cx="-40.616447"
-     inkscape:cy="-27.676431"
+     inkscape:zoom="2.9804688"
+     inkscape:cx="3.5222614"
+     inkscape:cy="6.8598699"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
-  <g
-     id="g2035"
-     transform="translate(85.965572,8.1527622)">
-    <rect
-       x="-83.966164"
-       y="5.6623816"
-       width="60.001183"
-       height="43.998344"
-       ry="2.0000143"
-       fill="#505050"
-       id="rect1426"
-       style="stroke-width:3.7796" />
-    <rect
-       x="3.7039001"
-       y="3.7284"
-       width="1.5875"
-       height="1.5875"
-       ry="0"
-       filter="url(#filter954)"
-       opacity="0.5"
-       id="rect1428"
-       transform="matrix(3.779602,0,0,3.779602,-85.965609,-8.152819)" />
-    <rect
-       x="11.641"
-       y="3.7284"
-       width="1.5875"
-       height="1.5875"
-       ry="0"
-       filter="url(#filter962)"
-       opacity="0.5"
-       id="rect1430"
-       transform="matrix(3.779602,0,0,3.779602,-85.965609,-8.152819)" />
-    <path
-       d="m -71.965963,3.938884 v 6.000118 h -10.000071 c -1.10799,0 -2.000014,0.891986 -2.000014,2.000014 v 39.999528 c 0,1.10799 0.891986,2.000014 2.000014,2.000014 h 55.998583 c 1.10799,0 2.000014,-0.891986 2.000014,-2.000014 V 11.939016 c 0,-1.10799 -0.891986,-2.000014 -2.000014,-2.000014 H -35.967522 V 3.938884 H -41.96764 V 9.939002 H -65.967735 V 3.938884 Z"
-       fill="url(#linearGradient856)"
-       id="path1432"
-       style="fill:url(#linearGradient856);stroke-width:3.7796" />
-    <g
-       transform="matrix(3.779602,0,0,3.779602,-85.966176,-5.744041)"
-       id="g1450">
-      <path
-         d="M 5.2916,2.5619 V -0.1323 L 3.7041,1.1906 v 1.3713 z"
-         fill="url(#linearGradient908)"
-         id="path1444"
-         style="fill:url(#linearGradient908)" />
-      <path
-         d="m 11.641,2.5619 v -2.6942 l 1.5875,1.3229 v 1.3713 z"
-         fill="url(#linearGradient922)"
-         id="path1446"
-         style="fill:url(#linearGradient922)" />
-      <rect
-         x="5.2916002"
-         y="-0.13229001"
-         width="6.3498998"
-         height="1.5875"
-         ry="0"
-         fill="#1e1e1e"
-         id="rect1448" />
-    </g>
-  </g>
   <circle
      cx="-1248.6936"
      cy="-1241.6389"
@@ -598,11 +538,75 @@
      fill-rule="evenodd"
      stroke-width="1.00001"
      id="circle879" />
-  <path
-     id="path942"
-     fill="#ffffff"
-     d="M 22,35 V 55.000004 H 42 V 35 Z m 4.000001,4.000001 h 4.000002 v 4 h 4 v -4 h 4 v 8 h -4 v 4.000002 h -4 v -4.000002 h -4.000002 z"
-     style="stroke-width:2" />
+  <g
+     id="g1175"
+     transform="matrix(0.9138848,0,0,0.9138848,2.7556867,2.7556864)">
+    <g
+       id="g2035"
+       transform="translate(85.965572,8.1527622)">
+      <rect
+         x="-83.966164"
+         y="5.6623816"
+         width="60.001183"
+         height="43.998344"
+         ry="2.0000143"
+         fill="#505050"
+         id="rect1426"
+         style="stroke-width:3.7796" />
+      <rect
+         x="3.7039001"
+         y="3.7284"
+         width="1.5875"
+         height="1.5875"
+         ry="0"
+         filter="url(#filter954)"
+         opacity="0.5"
+         id="rect1428"
+         transform="matrix(3.779602,0,0,3.779602,-85.965609,-8.152819)" />
+      <rect
+         x="11.641"
+         y="3.7284"
+         width="1.5875"
+         height="1.5875"
+         ry="0"
+         filter="url(#filter962)"
+         opacity="0.5"
+         id="rect1430"
+         transform="matrix(3.779602,0,0,3.779602,-85.965609,-8.152819)" />
+      <path
+         d="m -71.965963,3.938884 v 6.000118 h -10.000071 c -1.10799,0 -2.000014,0.891986 -2.000014,2.000014 v 39.999528 c 0,1.10799 0.891986,2.000014 2.000014,2.000014 h 55.998583 c 1.10799,0 2.000014,-0.891986 2.000014,-2.000014 V 11.939016 c 0,-1.10799 -0.891986,-2.000014 -2.000014,-2.000014 H -35.967522 V 3.938884 H -41.96764 V 9.939002 H -65.967735 V 3.938884 Z"
+         fill="url(#linearGradient856)"
+         id="path1432"
+         style="fill:url(#linearGradient856);stroke-width:3.7796" />
+      <g
+         transform="matrix(3.779602,0,0,3.779602,-85.966176,-5.744041)"
+         id="g1450">
+        <path
+           d="M 5.2916,2.5619 V -0.1323 L 3.7041,1.1906 v 1.3713 z"
+           fill="url(#linearGradient908)"
+           id="path1444"
+           style="fill:url(#linearGradient908)" />
+        <path
+           d="m 11.641,2.5619 v -2.6942 l 1.5875,1.3229 v 1.3713 z"
+           fill="url(#linearGradient922)"
+           id="path1446"
+           style="fill:url(#linearGradient922)" />
+        <rect
+           x="5.2916002"
+           y="-0.13229001"
+           width="6.3498998"
+           height="1.5875"
+           ry="0"
+           fill="#1e1e1e"
+           id="rect1448" />
+      </g>
+    </g>
+    <path
+       id="path942"
+       fill="#ffffff"
+       d="M 22,35 V 55.000004 H 42 V 35 Z m 4.000001,4.000001 h 4.000002 v 4 h 4 v -4 h 4 v 8 h -4 v 4.000002 h -4 v -4.000002 h -4.000002 z"
+       style="stroke-width:2" />
+  </g>
   <g
      transform="matrix(3.779602,0,0,3.779602,-158.91303,17.178696)"
      fill="#5e4aa6"
