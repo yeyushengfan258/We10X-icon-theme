@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="goa-account-facebook.svg"
    id="svg37"
    viewBox="0 0 64 64"
@@ -31,14 +31,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg37"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-x="0"
      inkscape:cy="30.821665"
      inkscape:cx="9.9085196"
      inkscape:zoom="4.5078057"
      showgrid="false"
      id="namedview39"
-     inkscape:window-height="985"
+     inkscape:window-height="936"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,7 +47,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <title
      id="title2">Adwaita Icon Template</title>
   <defs
@@ -119,26 +120,30 @@
        xlink:href="#radialGradient5521-1"
        inkscape:collect="always" />
   </defs>
-  <path
-     d="M 5 2 C 3.3380091 2 2 3.3380091 2 5 L 2 59 C 2 60.661991 3.3380091 62 5 62 L 59.001953 62 C 60.663944 62 62.001953 60.661991 62.001953 59 L 62.001953 5 C 62.001953 3.3380091 60.663944 2 59.001953 2 L 5 2 z "
-     style="color:#000000;fill:url(#radialGradient903);stroke-width:2.41876;enable-background:accumulate"
-     id="rect901" />
   <g
-     transform="matrix(0.60695661,0,0,0.60695661,-7.9592124,-112.8035)"
-     id="g914">
+     id="g851"
+     transform="matrix(0.91663683,0,0,0.91663683,2.6667263,2.6676198)">
+    <path
+       d="M 5,2 C 3.3380091,2 2,3.3380091 2,5 v 54 c 0,1.661991 1.3380091,3 3,3 h 54.001953 c 1.661991,0 3,-1.338009 3,-3 V 5 c 0,-1.6619909 -1.338009,-3 -3,-3 z"
+       style="color:#000000;fill:url(#radialGradient903);stroke-width:2.41876;enable-background:accumulate"
+       id="rect901" />
     <g
-       id="g912">
+       transform="matrix(0.60695661,0,0,0.60695661,-7.9592124,-112.8035)"
+       id="g914">
       <g
-         transform="translate(-3e-5,-160)"
-         enable-background="new"
-         id="g910">
-        <path
-           d="m 88,364 c 0,0 -16,0 -16,16 v 16 H 60 v 16 h 12 v 36 h 16 v -36 h 14 l 2,-16 H 88 v -12 c 0,-4 4,-4 4,-4 h 12 v -16 z"
-           color="#000000"
+         id="g912">
+        <g
+           transform="translate(-3e-5,-160)"
            enable-background="new"
-           fill="#ffffff"
-           style="text-indent:0;text-decoration:none;text-decoration-line:none;text-transform:none"
-           id="path908" />
+           id="g910">
+          <path
+             d="m 88,364 c 0,0 -16,0 -16,16 v 16 H 60 v 16 h 12 v 36 h 16 v -36 h 14 l 2,-16 H 88 v -12 c 0,-4 4,-4 4,-4 h 12 v -16 z"
+             color="#000000"
+             enable-background="new"
+             fill="#ffffff"
+             style="text-indent:0;text-decoration:none;text-decoration-line:none;text-transform:none"
+             id="path908" />
+        </g>
       </g>
     </g>
   </g>

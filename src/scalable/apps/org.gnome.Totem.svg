@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="org.gnome.Totem.svg"
    id="svg28"
    viewBox="0 0 16.933 16.933"
@@ -30,14 +30,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg28"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="21.200983"
-     inkscape:cx="38.361103"
-     inkscape:zoom="3.2460938"
+     inkscape:cy="28.643201"
+     inkscape:cx="117.45427"
+     inkscape:zoom="2.2953349"
      showgrid="false"
      id="namedview30"
-     inkscape:window-height="1000"
+     inkscape:window-height="936"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -46,7 +46,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs14">
     <linearGradient
@@ -342,7 +343,7 @@
 	.st108{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st109{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
   <g
-     transform="translate(5.531311e-8,-4.9979019e-4)"
+     transform="matrix(0.91664862,0,0,0.91664862,0.70569451,0.70523633)"
      id="g917">
     <circle
        cx="-340.54001"

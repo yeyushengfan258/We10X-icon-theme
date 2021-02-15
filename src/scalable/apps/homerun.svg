@@ -1,24 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <linearGradient id="linearGradient873" x1="-48.646" x2="-32.772" y1="-6.3007" y2="9.574" gradientTransform="matrix(3.7796 0 0 3.7796 185.86 25.814)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#28afea" offset="0"/>
-   <stop stop-color="#838be4" offset="1"/>
-  </linearGradient>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
-  <style type="text/css"/>
-  <style type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
-  <style type="text/css"/>
-  <style type="text/css">.ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="homerun.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="936"
+     id="namedview38"
+     showgrid="false"
+     inkscape:zoom="6.0546875"
+     inkscape:cx="13.109898"
+     inkscape:cy="41.022055"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+    <linearGradient
+       id="linearGradient873"
+       x1="-48.646"
+       x2="-32.772"
+       y1="-6.3007"
+       y2="9.574"
+       gradientTransform="matrix(3.7796,0,0,3.7796,185.86,25.814)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#28afea"
+         offset="0"
+         id="stop4" />
+      <stop
+         stop-color="#838be4"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       type="text/css"
+       id="style10" />
+    <style
+       type="text/css"
+       id="style12">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       type="text/css"
+       id="style14" />
+    <style
+       type="text/css"
+       id="style16">.ColorScheme-Text {
         color:#31363b;
       }
       .ColorScheme-Background{
@@ -48,7 +108,9 @@
       .ColorScheme-ButtonFocus{
         color:#2B74C7;
       }</style>
-  <style type="text/css">.ColorScheme-Text {
+    <style
+       type="text/css"
+       id="style18">.ColorScheme-Text {
         color:#31363b;
       }
       .ColorScheme-Background{
@@ -78,13 +140,45 @@
       .ColorScheme-ButtonFocus{
         color:#2B74C7;
       }</style>
- </defs>
- <rect x="2" y="1.9994" width="60.001" height="60.001" ry="3" fill="url(#linearGradient873)" stroke-width="3.7796"/>
- <rect x="30.377" y="-42.473" width="32" height="32" opacity="0" stroke-width="2.0258" style="paint-order:stroke markers fill"/>
- <g transform="matrix(2.5 0 0 2.5 -75.5 -13.002)" fill="#fff">
-  <path d="m36.2 9.1986h4c1.108 0 2 0.892 2 2v6.0024s-0.892-0.0024-2-0.0024h-4c-1.108 0-2-0.892-2-2v-4c0-1.108 0.892-2 2-2z"/>
-  <path d="m49.8 9.1986h-4c-1.108 0-2 0.892-2 2v6.0024s0.892-0.0024 2-0.0024h4c1.108 0 2-0.892 2-2v-4c0-1.108-0.892-2-2-2z"/>
-  <path d="m36.2 26.803h4c1.108 0 2-0.892 2-2v-6.0024s-0.892 0.0024-2 0.0024h-4c-1.108 0-2 0.892-2 2v4c0 1.108 0.892 2 2 2z"/>
-  <path d="m49.8 26.803h-4c-1.108 0-2-0.892-2-2v-6.0024s0.892 0.0024 2 0.0024h4c1.108 0 2 0.892 2 2v4c0 1.108-0.892 2-2 2z"/>
- </g>
+  </defs>
+  <rect
+     x="30.377"
+     y="-42.473"
+     width="32"
+     height="32"
+     opacity="0"
+     stroke-width="2.0258"
+     style="paint-order:stroke markers fill"
+     id="rect24" />
+  <g
+     id="g869"
+     transform="matrix(0.9166514,0,0,0.9166514,2.6666971,2.6672471)">
+    <rect
+       x="2"
+       y="1.9994"
+       width="60.000999"
+       height="60.000999"
+       ry="3"
+       fill="url(#linearGradient873)"
+       stroke-width="3.7796"
+       id="rect22"
+       style="fill:url(#linearGradient873)" />
+    <g
+       transform="matrix(2.5,0,0,2.5,-75.5,-13.002)"
+       fill="#ffffff"
+       id="g34">
+      <path
+         d="m 36.2,9.1986 h 4 c 1.108,0 2,0.892 2,2 v 6.0024 c 0,0 -0.892,-0.0024 -2,-0.0024 h -4 c -1.108,0 -2,-0.892 -2,-2 v -4 c 0,-1.108 0.892,-2 2,-2 z"
+         id="path26" />
+      <path
+         d="m 49.8,9.1986 h -4 c -1.108,0 -2,0.892 -2,2 v 6.0024 c 0,0 0.892,-0.0024 2,-0.0024 h 4 c 1.108,0 2,-0.892 2,-2 v -4 c 0,-1.108 -0.892,-2 -2,-2 z"
+         id="path28" />
+      <path
+         d="m 36.2,26.803 h 4 c 1.108,0 2,-0.892 2,-2 v -6.0024 c 0,0 -0.892,0.0024 -2,0.0024 h -4 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.108 0.892,2 2,2 z"
+         id="path30" />
+      <path
+         d="m 49.8,26.803 h -4 c -1.108,0 -2,-0.892 -2,-2 v -6.0024 c 0,0 0.892,0.0024 2,0.0024 h 4 c 1.108,0 2,0.892 2,2 v 4 c 0,1.108 -0.892,2 -2,2 z"
+         id="path32" />
+    </g>
+  </g>
 </svg>

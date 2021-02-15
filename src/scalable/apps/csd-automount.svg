@@ -14,7 +14,7 @@
    viewBox="0 0 16.933 16.933"
    id="svg35"
    sodipodi:docname="csd-automount.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="962"
+     inkscape:window-height="936"
      id="namedview37"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="21.29818"
-     inkscape:cy="31.154632"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="72.575679"
+     inkscape:cy="29.00107"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg35"
      inkscape:document-rotation="0" />
@@ -2086,7 +2086,8 @@
 	.st108{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st109{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
   <g
-     id="g4741">
+     id="g4741"
+     transform="matrix(0.91664862,0,0,0.91664862,0.70569446,0.70569904)">
     <g
        transform="translate(4.7135,-2.5471)"
        fill="#5e4aa6"

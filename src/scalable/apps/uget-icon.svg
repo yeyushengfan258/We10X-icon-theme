@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    id="Spotify"
    width="64"
    height="64"
@@ -36,14 +36,14 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="Spotify"
      inkscape:window-maximized="1"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-x="0"
      inkscape:cy="22.782382"
      inkscape:cx="-72.118223"
      inkscape:zoom="2.9804688"
      showgrid="false"
      id="namedview23"
-     inkscape:window-height="932"
+     inkscape:window-height="936"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -1818,7 +1818,7 @@
      cy="-1387.2177"
      cx="-1239.3446" />
   <g
-     transform="translate(0,1.0427814)"
+     transform="matrix(0.91666667,0,0,0.91666667,2.6666666,4.6775629)"
      id="g2154">
     <rect
        style="opacity:0.8;fill:#b9b9b9;fill-opacity:0.8;stroke-width:2.68047;stroke-linecap:round"
