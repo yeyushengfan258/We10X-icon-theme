@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(.98214 0 0 .98214 .57143 .080357)">
+  <path d="m20 10c-2.7008 0.0033-5.1588 1.5599-6.3164 4h-2.6836c-3.8658 3.87e-4 -6.9996 3.1342-7 7v18c3.865e-4 3.8658 3.1342 6.9996 7 7h3.2578c1.3084 1.8788 3.4527 2.9991 5.7422 3h2.0801c0.49693 3.4407 3.4435 5.9956 6.9199 6h6c3.4772-0.0034 6.4248-2.5585 6.9219-6h2.0781c2.2867-0.0034 4.4276-1.1235 5.7344-3h3.2656c3.8658-3.87e-4 6.9996-3.1342 7-7v-18c-3.87e-4 -3.8658-3.1342-6.9996-7-7h-2.6855c-1.1573-2.4395-3.6144-3.9959-6.3145-4h-6c-2.4603 0.0034-4.7382 1.2981-6 3.4102-1.2618-2.112-3.5397-3.4067-6-3.4102z" fill="#f85b79"/>
+  <path d="m11 22v4h6v-4h-6z" opacity=".2"/>
+  <path d="m11 29v4h6v-4h-6z" opacity=".2"/>
+  <path d="m11 36v4h6v-4h-6z" opacity=".2"/>
+  <path d="m20 18v4h6v-4h-6z" opacity=".2"/>
+  <path d="m20 25v4h6v-4h-6z" opacity=".2"/>
+  <path d="m20 32v4h6v-4h-6z" opacity=".2"/>
+  <path d="m20 39v4h6v-4h-6z" opacity=".2"/>
+  <path d="m29 24v4h6v-4h-6z" opacity=".2"/>
+  <path d="m29 31v4h6v-4h-6z" opacity=".2"/>
+  <path d="m29 38v4h6v-4h-6z" opacity=".2"/>
+  <path d="m29 45v4h6v-4h-6z" opacity=".2"/>
+  <path d="m53 22v4h-6v-4h6z" opacity=".2"/>
+  <path d="m53 29v4h-6v-4h6z" opacity=".2"/>
+  <path d="m53 36v4h-6v-4h6z" opacity=".2"/>
+  <path d="m44 18v4h-6v-4h6z" opacity=".2"/>
+  <path d="m44 25v4h-6v-4h6z" opacity=".2"/>
+  <path d="m44 32v4h-6v-4h6z" opacity=".2"/>
+  <path d="m44 39v4h-6v-4h6z" opacity=".2"/>
+  <path d="m20 17v4h6v-4zm18 0v4h6v-4zm-27 4v4h6v-4zm36 0v4h6v-4zm-18 2v4h6v-4zm-9 1v4h6v-4zm18 0v4h6v-4zm-27 4v4h6v-4zm36 0v4h6v-4zm-18 2v4h6v-4zm-9 1v4h6v-4zm18 0v4h6v-4zm-27 4v4h6v-4zm36 0v4h6v-4zm-18 2v4h6v-4zm-9 1v4h6v-4zm18 0v4h6v-4zm-9 6v4h6v-4z" fill="#fff"/>
+  <path d="m20 10c-2.7008 0.0033-5.1588 1.5599-6.3164 4h-2.6836c-3.8658 3.87e-4 -6.9996 3.1342-7 7v1c3.865e-4 -3.8658 3.1342-6.9996 7-7h2.6836c1.1576-2.4401 3.6156-3.9967 6.3164-4h6c2.4603 0.0034 4.7382 1.2981 6 3.4102 1.2618-2.112 3.5397-3.4068 6-3.4102h6c2.7001 0.0041 5.1571 1.5605 6.3145 4h2.6855c3.8658 3.87e-4 6.9996 3.1342 7 7v-1c-3.87e-4 -3.8658-3.1342-6.9996-7-7h-2.6855c-1.1573-2.4395-3.6144-3.9959-6.3145-4h-6c-2.4603 0.0034-4.7382 1.2981-6 3.4102-1.2618-2.112-3.5397-3.4067-6-3.4102z" fill="#fff" opacity=".2"/>
+ </g>
+</svg>

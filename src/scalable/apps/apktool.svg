@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(.98214 0 0 .98214 .57143 .57143)">
+  <path d="m4 32v6h8v22h6v-22h6v-6z" fill="#0c91fa"/>
+  <path d="m18 38v22h14v-28h-8v6z" fill="#0470c5"/>
+  <path d="m32 32v28h14v-28z" fill="#034d87"/>
+  <path d="m46 32v28h14v-6h-8v-22z" fill="#02355f"/>
+  <path d="m4 32h20v-28h-20z" fill="#5dec36"/>
+  <path d="m24 32h11v-7h11v-21h-22z" fill="#39c713"/>
+  <path d="m35 25v7h25v-7l-7-7 7-7v-7h-14v21z" fill="#2d9d0e"/>
+  <path d="m12 11v11h3v-11zm22 0v11h3v-11zm-22 14v8h3v-8z" opacity=".2"/>
+  <path d="m12 10v11h3v-11zm22 0v11h3v-11zm-22 14v8h3v-8z" fill="#fff"/>
+  <path d="m24 41v12h3v-12zm14 0v12h3v-12z" opacity=".2"/>
+  <g fill="#fff">
+   <rect x="24" y="40" width="3" height="12"/>
+   <rect x="38" y="40" width="3" height="12"/>
+   <path d="m4 4v1h56v-1h-36zm49.5 14.5-0.5 0.5 7 7v-1z" opacity=".2"/>
+  </g>
+ </g>
+</svg>
