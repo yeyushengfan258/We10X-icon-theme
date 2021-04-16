@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#e1e1e1;
-      }
-      </style>
-  </defs>
-    <path
-        style="fill:currentColor;fill-opacity:1;stroke:none" 
-        d="M 8 2 C 4.68629 2 2 4.68629 2 8 C 2 11.31371 4.68629 14 8 14 C 11.31371 14 14 11.31371 14 8 C 14 4.68629 11.31371 2 8 2 z M 8 3 C 10.76142 3 13 5.23858 13 8 C 13 10.76142 10.76142 13 8 13 C 5.23858 13 3 10.76142 3 8 C 3 5.23858 5.23858 3 8 3 z M 8 6 C 6.8954305 6 6 6.8954305 6 8 C 6 9.1045695 6.8954305 10 8 10 C 9.1045695 10 10 9.1045695 10 8 C 10 6.8954305 9.1045695 6 8 6 z M 8 7 C 8.5522847 7 9 7.4477153 9 8 C 9 8.5522847 8.5522847 9 8 9 C 7.4477153 9 7 8.5522847 7 8 C 7 7.4477153 7.4477153 7 8 7 z "
-        class="ColorScheme-Text"
-        />
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-1233 -61)" color="#bebebe">
+  <path transform="translate(1233,61)" d="m8 5c-1.68 0-3 1.32-3 3s1.32 3 3 3 3-1.32 3-3-1.32-3-3-3zm0.0058594 1.0059a2.002 2.002 0 0 1 1.9961 1.9961 2.002 2.002 0 0 1-1.9961 1.9961c-1.098 0-2.0137-0.89709-2.0137-1.9961 0-1.098 0.91567-1.9961 2.0137-1.9961z" fill="#363636" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+ </g>
+ <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-0.09375 1a7 7 0 0 1 0.09375 0 7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 6.9062-7z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
 </svg>

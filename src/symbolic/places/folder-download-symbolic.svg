@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path d="m5-3e-7v6h1v-5h4v5h1v-6zm-2.207 7-0.793 0.816 6 6.184 6-6.184-0.793-0.816-5.207 5.367zm-1.793 7v2h14v-2h-1v1h-12v-1z" color="#e1e1e1" fill="#808080"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Text { color:#363636; }</style>
+ </defs>
+ <rect x="2" y="14" width="11" height="1" rx="0" ry="0" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2845" style="paint-order:stroke fill markers"/>
+ <path d="m7 1v10.088l-3.7441-3.7441-0.70703 0.70703 4.2441 4.2422 0.70703 0.70703 4.9492-4.9492-0.70703-0.70703-3.7422 3.7402v-10.084h-1z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2845" style="paint-order:stroke fill markers"/>
 </svg>

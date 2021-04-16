@@ -1,13 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#e1e1e1;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 2 2 L 2 14 L 3 14 L 4 14 L 7 14 L 7 13 L 6 13 L 5 13 L 5 10 L 6 10 L 7 10 L 8 10 L 8 9 L 7 9 L 5 9 L 3.96875 9 L 3.96875 13 L 3 13 L 3 3 L 4 3 L 5 3 L 5 6 L 5 7 L 7 7 L 11 7 L 11 6 L 11 3 L 11.28125 3 L 13 4.71875 L 13 5 L 13 7 L 14 7 L 14 4.28125 L 11.71875 2 L 11.6875 2 L 11 2 L 4 2 L 3 2 L 2 2 z M 6 3 L 7.90625 3 L 7.90625 6 L 6 6 L 6 3 z M 12 8 L 11 9 L 10 10 L 8 12 L 8 13 L 8 14 L 10 14 L 11 13 L 12 12 L 13 11 L 14 10 L 12 8 z M 11.689453 9.6894531 L 12.28125 10.28125 L 10.59375 11.96875 L 10.59375 11.984375 L 9.3125 13.28125 L 8.71875 12.6875 L 11.689453 9.6894531 z "
-     class="ColorScheme-Text"
-     />
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m1 5v8c0 1.108 0.892 2 2 2h9c1.108 0 2-0.892 2-2v-8h-1v8c0 0.554-0.446 1-1 1h-9c-0.554 0-1-0.446-1-1v-8h-1z" fill="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.0016" style="paint-order:markers stroke fill"/>
+ <rect transform="rotate(45)" x="9.5368" y="2.182" width="4.2518" height="1" rx="0" ry="0" fill="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.0016" style="paint-order:markers stroke fill"/>
+ <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="-1.0698" y="12.789" width="4.2518" height="1" rx="0" ry="0" fill="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.0016" style="paint-order:markers stroke fill"/>
+ <rect x="7" y="6" width="1" height="5" rx="0" ry="0" fill="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width=".79181" style="paint-order:markers stroke fill"/>
+ <path d="m1 1c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h13c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1h-13zm0 1h13v2h-13v-2z" fill="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.0016" style="paint-order:markers stroke fill"/>
 </svg>

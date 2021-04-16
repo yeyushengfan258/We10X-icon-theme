@@ -1,10 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <g transform="translate(-152 -648.36)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m164 652.36c-1.6621 0-3 1.3379-3 3v5c0 1.6621 1.3379 3 3 3s3-1.3379 3-3v-5c0-1.6621-1.3379-3-3-3zm-6 7v0.99999c0 2.9695 2.1624 5.4322 5 5.9062v2.0938h2v-2.0938c2.8376-0.47409 5-2.9368 5-5.9062v-0.99999h-2v0.99999c0 2.2334-1.7666 4-4 4s-4-1.7666-4-4v-0.99999z"/>
+<svg width="24" height="24" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>Paper Symbolic Icon Theme</title>
+ <g transform="translate(4 -4)" fill="#dedede" fill-rule="evenodd">
+  <rect x="5" y="9" width="6" height="10" ry="3" style="paint-order:normal"/>
+  <path d="m3.5 14c-0.277 0-0.5 0.223-0.5 0.5v1.5c0 2.6008 1.967 4.7248 4.5 4.9746v1.0254h-2c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h5c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-2v-1.0254c2.533-0.24983 4.5-2.3738 4.5-4.9746v-1.5c0-0.277-0.223-0.5-0.5-0.5s-0.5 0.223-0.5 0.5v1.5c0 2.216-1.784 4-4 4s-4-1.784-4-4v-1.5c0-0.277-0.223-0.5-0.5-0.5z" style="paint-order:normal"/>
  </g>
 </svg>

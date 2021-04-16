@@ -1,8 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#e1e1e1;
-        }
-    </style>
-    <path d="m2 2v12h4v-12zm8 0v12h4v-12z" class="ColorScheme-Text" fill="currentColor"/>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="3" width="2" height="10" rx="1" ry="1" fill="#363636" stroke-width="1.8257"/>
+ <rect x="10" y="3" width="2" height="10" rx="1" ry="1" fill="#363636" stroke-width="1.8257"/>
 </svg>

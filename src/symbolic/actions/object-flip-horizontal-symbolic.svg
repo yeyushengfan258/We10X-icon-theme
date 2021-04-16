@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#e1e1e1;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 2 L 4 3 L 5 3 L 5 2 L 4 2 z M 11 2 L 11 3 L 12 3 L 12 2 L 11 2 z M 2 4 L 2 12 L 7 12 L 7 10 L 9 10 L 9 12 L 14 12 L 14 4 L 9 4 L 9 6 L 7 6 L 7 4 L 2 4 z M 3 5 L 6 5 L 6 11 L 3 11 L 3 5 z M 10 5 L 13 5 L 13 11 L 10 11 L 10 5 z M 11 6 L 11 10 L 12 10 L 12 6 L 11 6 z M 7 7 L 9 7 L 9 9 L 7 9 L 7 7 z M 4 13 L 4 14 L 5 14 L 5 13 L 4 13 z M 11 13 L 11 14 L 12 14 L 12 13 L 11 13 z "
-     class="ColorScheme-Text"
-     />
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g color="#000" fill="#363636">
+        <path d="M13 7v1H3V7z" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none" white-space="normal"/>
+        <path d="M5 5l-.002 5a36.975 36.975 0 0 1-2.323-1.166A44.8 44.8 0 0 1 .416 7.5a51.555 51.555 0 0 1 2.26-1.32A42.81 42.81 0 0 1 4.999 5zM11 5l.002 5c.76-.348 1.535-.737 2.323-1.166A44.8 44.8 0 0 0 15.584 7.5a51.555 51.555 0 0 0-2.26-1.32A43.084 43.084 0 0 0 11.001 5z" overflow="visible" style="marker:none"/>
+    </g>
 </svg>

@@ -1,11 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#FF5252; }
-  </style>
- </defs>
- <g transform="matrix(1,0,0,1,1,1)">
-  <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Highlight" d="M 9 4 L 9 5 L 6 5 L 6 17 C 6 17.55 6.446 18 7 18 L 14 18 L 14 8 L 16 8 L 16 5 L 13 5 L 13 4 L 9 4 z"/>
-  <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 15,9 V 14 L 15.25,16 H 16.75 L 17,14 V 9 Z M 15,17 V 19 H 17 V 17 Z"/>
+<svg width="24" height="24" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>Paper Symbolic Icon Theme</title>
+ <g transform="translate(2,-4)" fill="#d33636" fill-rule="evenodd">
+  <path d="m2 11c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h13c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h13c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-13c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" enable-background="new" style="paint-order:stroke fill markers"/>
+  <path d="m18 14v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z" enable-background="new" style="paint-order:stroke fill markers"/>
  </g>
 </svg>
