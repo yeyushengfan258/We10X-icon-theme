@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient969" x1="-16.14" x2="-1.0699" y1="-55.616" y2="-44.835" gradientTransform="matrix(1,0,0,1.1,16.669,62.435)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e1a000" offset="0"/>
+   <stop stop-color="#ffdc6e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1006" x1=".52939" x2="16.217" y1="2.7784" y2="14.872" gradientTransform="matrix(1,0,0,1.1,16.669,62.435)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e1a000" offset="0"/>
+   <stop stop-color="#ffdc6e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1064" x1="-15.961" x2="-.30109" y1="-43.254" y2="-54.196" gradientTransform="matrix(3.7796 0 0 4.1576 11.524 213.8)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffc832" offset="0"/>
+   <stop stop-color="#ffdc6e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient947" x1="-16.14" x2="-1.0699" y1="-55.616" y2="-44.835" gradientTransform="matrix(1,0,0,1.1,16.669,62.435)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient969"/>
+ </defs>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#363636;
+        }</style>
+ <path class="ColorScheme-Text" d="m19.111 2c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h7.6777a4.5 4.5 0 0 1-0.91602-1h-6.7617c-0.554 0-1-0.446-1-1v-6h14v0.75977a4.5 4.5 0 0 1 1 0.91406v-3.6738c0-1.108-0.892-2-2-2h-7.6289c-0.57985-0.0229-0.6047 0.076884-1.0391-0.35742-0.43381-0.43381-0.613-0.64213-1.332-0.64258h-2zm0 1h2c0.31116-1.7e-6 0.52033 1.414e-4 0.99805 0.4707 0.47877 0.47161 0.6388 0.5293 1 0.5293h8.002c0.554 0 1 0.446 1 1v1h-14v-2c0-0.554 0.446-1 1-1z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m29.611 8c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5zm-1 1c0.277 0 0.5 0.223 0.5 0.5v2.5h1.5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-2c-0.277 0-0.5-0.223-0.5-0.5v-3c0-0.277 0.223-0.5 0.5-0.5z" fill="currentColor"/>
+ <g transform="matrix(.26666 0 0 .26666 13.194 4.9149)">
+  <g transform="matrix(3.7796 0 0 3.7796 -51.477 -22.181)">
+   <g transform="matrix(1,0,0,1.1,16.669,63.956)" fill="url(#linearGradient947)" stroke-width=".66145">
+    <path d="m-8.2026-51.317h-7.9373v-3.6379c0-0.36531 0.29614-0.66144 0.66144-0.66144h5.6223l1.6536 1.3229z" fill="url(#linearGradient947)"/>
+   </g>
+   <rect x=".52939" y="4.2333" width="15.874" height="10.848" ry=".79373" fill="url(#linearGradient1006)"/>
+   <rect x=".97311" y="4.6963" width="14.987" height="9.9217" ry=".29919" fill="#fffffc"/>
+  </g>
+  <rect x="-43.479" y="6.1346" width="48.001" height="1" ry=".5" fill="#dcdcdc" stroke-width="3.3806"/>
+  <rect x="-43.479" y="12.219" width="48.001" height="1" ry=".5" fill="#dcdcdc" stroke-width="3.3806"/>
+  <path d="m8.0201 16.191h-27.5l-6.2499 5.5001h-21.25c-1.3807 0-2.5 1.2312-2.5 2.75v7.6269c0 1.5188 1.1193 2.75 2.5 2.75h55.001c1.3807 0 2.5-1.2312 2.5-2.75v-13.127c0-1.5188-1.1193-2.75-2.5-2.75z" fill="url(#linearGradient1064)" stroke-width="2.622"/>
+ </g>
+</svg>
