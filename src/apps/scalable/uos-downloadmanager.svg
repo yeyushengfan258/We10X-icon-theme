@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="uos-downloadmanager128-c" x="-.314" y="-.482" width="1.628" height="1.964">
+   <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+   <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+   <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.421978973   0 0 0 0 0.652704643   0 0 0 0 0.875452899  0 0 0 0.5 0"/>
+   <feMerge>
+    <feMergeNode in="shadowMatrixOuter1"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <linearGradient id="uos-downloadmanager128-e" x1="30.167" x2="13.481" y1="10.942" y2="22.324" gradientTransform="scale(1.2453 .80301)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7871EB" offset="0"/>
+   <stop stop-color="#57E5FF" offset="1"/>
+  </linearGradient>
+  <path id="uos-downloadmanager128-d" d="m17.365 25.796c-0.0044-0.0044-0.0089-0.0088-0.01328-0.01328-0.07544-0.07567-0.14846-0.15284-0.21907-0.2314l-14.866-14.913c-2.3585-2.3659-2.3585-6.194 0-8.5599 2.3491-2.3564 6.1636-2.3623 8.52-0.013281l0.01328 0.013281 10.824 10.858 10.825-10.858c2.3491-2.3564 6.1636-2.3623 8.52-0.013281 0.0044 0.00442 0.0089 0.00885 0.01328 0.013281 2.3585 2.3659 2.3585 6.194 0 8.5599l-14.866 14.913c-0.07061 0.07857-0.14363 0.15573-0.21907 0.2314-1.1444 1.148-2.6366 1.7381-4.1386 1.7698l-0.24968 3.69e-4c-1.5021-0.02705-2.9962-0.61252-4.1441-1.7569z"/>
+  <radialGradient id="uos-downloadmanager128-f" cx="18.521" cy="15.183" r="18.83" gradientTransform="scale(1.1768 .84976)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7871EB" offset="0"/>
+   <stop stop-color="#65B3F9" stop-opacity=".389" offset=".6865"/>
+   <stop stop-color="#5CD1FF" offset="1"/>
+  </radialGradient>
+  <filter id="uos-downloadmanager128-h" x="-.278" y="-.435" width="1.556" height="1.87">
+   <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+   <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+   <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.419449026   0 0 0 0 0.779397285   0 0 0 0 0.884114583  0 0 0 0.5 0"/>
+   <feMerge>
+    <feMergeNode in="shadowMatrixOuter1"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <linearGradient id="uos-downloadmanager128-j" x1="51.701" x2="28.752" y1="18.106" y2="40.266" gradientTransform="scale(1.2521 .79868)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2B86FF" offset="0"/>
+   <stop stop-color="#26F9B9" offset="1"/>
+  </linearGradient>
+  <path id="uos-downloadmanager128-i" d="m29.062 42.743c-6.36e-4 -6.37e-4 -0.0013-0.0013-0.0019-0.0019l-25.746-25.753c-3.8285-3.8295-3.8285-10.037 0-13.867 3.8271-3.8282 10.033-3.829 13.861-0.00191l0.0019 0.00191 18.822 18.827 18.823-18.827c3.8271-3.8282 10.033-3.829 13.861-0.00191l0.0019 0.00191c3.8285 3.8295 3.8285 10.037 0 13.867l-25.745 25.753c-1.9135 1.9141-4.4218 2.8713-6.9301 2.8717h-0.01711c-2.5084 3.46e-4 -5.0168-0.95622-6.9309-2.8698z"/>
+  <linearGradient id="uos-downloadmanager128-k" x1="9.9751" x2="37.449" y1="23.447" y2="17.744" gradientTransform="scale(1.1297 .88518)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#26F5BB" offset="0"/>
+   <stop stop-color="#2B86FE" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a-3" x1="32" x2="32" y1="2" y2="62" gradientTransform="translate(.25274 .81328)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5faff" offset="0"/>
+   <stop stop-color="#cfdef0" offset="1"/>
+  </linearGradient>
+  <mask id="uos-downloadmanager128-g" fill="#ffffff">
+   <use width="100%" height="100%" xlink:href="#uos-downloadmanager128-d"/>
+  </mask>
+  <mask id="uos-downloadmanager128-l" fill="#ffffff">
+   <use width="100%" height="100%" xlink:href="#uos-downloadmanager128-i"/>
+  </mask>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="url(#a-3)" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(1.0589 0 0 1.0589 -1.8848 .1853)" fill-rule="evenodd">
+  <use transform="matrix(.42673 0 0 .42673 22.772 16.304)" width="100%" height="100%" fill="url(#uos-downloadmanager128-e)" filter="url(#uos-downloadmanager128-c)" xlink:href="#uos-downloadmanager128-d"/>
+  <path transform="matrix(.42673 0 0 .42673 22.772 16.304)" d="m23 11.465c-4.5354 6.1623-14.071 5.8135-17.56 3.7206-3.4888-2.0928-6.2798-10.232-5.5821-12.557 0.69776-2.3254 6.5124-7.5575 11.978-2.3254 5.4658 5.2321 7.0939 7.325 11.164 11.162z" fill="url(#uos-downloadmanager128-f)" filter="url(#uos-downloadmanager128-c)" mask="url(#uos-downloadmanager128-g)"/>
+  <use transform="matrix(.42673 0 0 .42673 16.638 25.266)" width="100%" height="100%" fill="url(#uos-downloadmanager128-j)" filter="url(#uos-downloadmanager128-h)" xlink:href="#uos-downloadmanager128-i"/>
+  <path transform="matrix(.42673 0 0 .42673 16.648 25.253)" d="m35.975 21.977c-4.5501 6.2113-17.5 8.0864-23.917 4.5706-6.4168-3.5158-16.1-13.126-14.35-19.337 1.75-6.2113 12.25-15.352 17.734-10.079 5.4834 5.2738 23.217 18.165 20.534 24.845z" fill="url(#uos-downloadmanager128-k)" filter="url(#uos-downloadmanager128-h)" mask="url(#uos-downloadmanager128-l)"/>
+ </g>
+</svg>

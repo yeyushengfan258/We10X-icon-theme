@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>深度用户反馈-128px</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title>深度用户反馈-128px</title>
+ <g>
+  <g transform="matrix(.51015 0 0 .51015 -16.464 -3.7132)" fill="#0090ff">
+   <ellipse cx="95" cy="63" rx="56" ry="42" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1054"/>
+   <path d="m49 87s-2 22-10 32c0 0 21 1 38-17 0 0-12-1-28-15z"/>
+  </g>
+  <g fill="#fff">
+   <circle cx="19" cy="29" r="4"/>
+   <circle cx="32.5" cy="29" r="4"/>
+   <circle cx="46" cy="29" r="4"/>
+  </g>
+ </g>
+</svg>

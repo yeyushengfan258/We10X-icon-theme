@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>deepin-multitasking-view</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title>deepin-multitasking-view</title>
+ <g transform="matrix(0 1.9333 -1.9333 0 80.334 -14.4)" fill-rule="evenodd">
+  <path d="M 37,26 A 14,14 0 0 1 26.623,39.523 14,14 0 0 1 10.876,33 14,14 0 0 1 13.1,16.1 L 23,26" fill="#ffdc0a"/>
+  <path d="M 14.1,14.1 A 14,14 0 0 1 28.789,10.845 L 24,24" fill="#406ccd"/>
+  <path d="M 30.446,11.785 A 13,13 0 0 1 39,24 H 26 Z" fill="#3ebc45"/>
+ </g>
+</svg>
