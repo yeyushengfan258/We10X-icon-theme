@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=We10X
-THEME_VARIANTS=('-black' '-blue' '-green' '-orange' '-purple' '-red' '-special' '-Valley')
+THEME_VARIANTS=('-black' '-blue' '-green' '-orange' '-purple' '-red' '-special')
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
@@ -163,9 +163,6 @@ while [[ $# -gt 0 ]]; do
       ;;
     -black)
       theme="-black"
-      ;;
-    -Valley)
-      theme="-Valley"
       ;;
     -special)
       theme="-special"

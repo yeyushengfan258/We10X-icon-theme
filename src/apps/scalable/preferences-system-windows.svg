@@ -5,7 +5,6 @@
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
    </cc:Work>
   </rdf:RDF>
  </metadata>
@@ -14,43 +13,18 @@
    <stop stop-color="#3889e9" offset="0"/>
    <stop stop-color="#5ea5fb" offset="1"/>
   </linearGradient>
-  <linearGradient id="f" x1="409.57" x2="409.94" y1="542.8" y2="504.19" gradientTransform="matrix(1.0382 4.4533e-6 -3.9097e-6 .98384 -396.2 -474.96)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#c4c4c4" offset="0"/>
-   <stop stop-color="#f6f6f6" offset="1"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <linearGradient id="linearGradient1103" x1="15.408" x2="58" y1="19" y2="45" gradientTransform="matrix(.99999 0 0 1 -5.9e-5 -3.5133e-6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0082e5" offset="0"/>
+   <stop stop-color="#42b7ff" offset="1"/>
   </linearGradient>
-  <style type="text/css"/>
-  <linearGradient id="linearGradient1044" x1="409.57" x2="409.94" y1="542.8" y2="504.19" gradientTransform="matrix(1.0382 4.4533e-6 -3.9097e-6 .98384 -396.2 -474.96)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
  </defs>
  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
- <g transform="translate(-.72793 -2.5094)">
-  <g transform="matrix(.96735 0 0 .96735 12.298 -14.872)">
-   <path d="m6.7671 24.654c-0.89867-4e-6 -1.6228 0.70141-1.6228 1.5735l-4.33e-5 30.303c-3.6e-6 0.8721 0.72418 1.5735 1.6228 1.5735l42.436 1.21e-4c0.89867 5e-6 1.6228-0.70141 1.6228-1.5735l4.4e-5 -30.303c4e-6 -0.8721-0.72418-1.5735-1.6228-1.5735zm0.74682 8.4147 40.945 1.17e-4c0.64608 2e-6 1.1649 0.50502 1.1649 1.132l-3.1e-5 21.785c-3e-6 0.62697-0.5188 1.132-1.1649 1.132l-40.945-1.16e-4c-0.64608-4e-6 -1.1672-0.50502-1.1672-1.132l3.12e-5 -21.785c2.4e-6 -0.62697 0.52116-1.132 1.1672-1.132z" fill="url(#linearGradient1044)" stroke-width=".97189"/>
-   <g transform="matrix(.56018 -.066816 .068851 .54362 -233.45 -181.73)" fill="#333">
-    <ellipse transform="rotate(7.007)" cx="498.35" cy="384.49" rx="3.1958" ry="3.2932"/>
-    <ellipse transform="rotate(7.007)" cx="489.83" cy="384.49" rx="3.1958" ry="3.2932"/>
-    <ellipse transform="rotate(7.007)" cx="481.31" cy="384.49" rx="3.1958" ry="3.2932"/>
-   </g>
-   <rect x="6.3433" y="33.071" width="43.278" height="24.049" ry="1.1317" fill="#f44e24" stroke-width=".97193"/>
-  </g>
-  <g transform="matrix(.96735 0 0 .96735 5.6567 -5.5189)">
-   <path d="m6.7671 24.654c-0.89867-4e-6 -1.6228 0.70141-1.6228 1.5735l-4.33e-5 30.303c-3.6e-6 0.8721 0.72418 1.5735 1.6228 1.5735l42.436 1.21e-4c0.89867 5e-6 1.6228-0.70141 1.6228-1.5735l4.4e-5 -30.303c4e-6 -0.8721-0.72418-1.5735-1.6228-1.5735zm0.74682 8.4147 40.945 1.17e-4c0.64608 2e-6 1.1649 0.50502 1.1649 1.132l-3.1e-5 21.785c-3e-6 0.62697-0.5188 1.132-1.1649 1.132l-40.945-1.16e-4c-0.64608-4e-6 -1.1672-0.50502-1.1672-1.132l3.12e-5 -21.785c2.4e-6 -0.62697 0.52116-1.132 1.1672-1.132z" fill="url(#linearGradient1044)" stroke-width=".97189"/>
-   <g transform="matrix(.56018 -.066816 .068851 .54362 -233.45 -181.73)" fill="#333">
-    <ellipse transform="rotate(7.007)" cx="498.35" cy="384.49" rx="3.1958" ry="3.2932"/>
-    <ellipse transform="rotate(7.007)" cx="489.83" cy="384.49" rx="3.1958" ry="3.2932"/>
-    <ellipse transform="rotate(7.007)" cx="481.31" cy="384.49" rx="3.1958" ry="3.2932"/>
-   </g>
-   <rect x="6.3433" y="33.071" width="43.278" height="24.049" ry="1.1317" fill="#ffb800" stroke-width=".97193"/>
-  </g>
-  <g transform="matrix(.96735 0 0 .96735 -.9844 3.8344)">
-   <path d="m6.7671 24.654c-0.89867-4e-6 -1.6228 0.70141-1.6228 1.5735l-4.33e-5 30.303c-3.6e-6 0.8721 0.72418 1.5735 1.6228 1.5735l42.436 1.21e-4c0.89867 5e-6 1.6228-0.70141 1.6228-1.5735l4.4e-5 -30.303c4e-6 -0.8721-0.72418-1.5735-1.6228-1.5735zm0.74682 8.4147 40.945 1.17e-4c0.64608 2e-6 1.1649 0.50502 1.1649 1.132l-3.1e-5 21.785c-3e-6 0.62697-0.5188 1.132-1.1649 1.132l-40.945-1.16e-4c-0.64608-4e-6 -1.1672-0.50502-1.1672-1.132l3.12e-5 -21.785c2.4e-6 -0.62697 0.52116-1.132 1.1672-1.132z" fill="url(#linearGradient1044)" stroke-width=".97189"/>
-   <g transform="matrix(.56018 -.066816 .068851 .54362 -233.45 -181.73)" fill="#333">
-    <ellipse transform="rotate(7.007)" cx="498.35" cy="384.49" rx="3.1958" ry="3.2932"/>
-    <ellipse transform="rotate(7.007)" cx="489.83" cy="384.49" rx="3.1958" ry="3.2932"/>
-    <ellipse transform="rotate(7.007)" cx="481.31" cy="384.49" rx="3.1958" ry="3.2932"/>
-   </g>
-   <rect x="6.3433" y="33.071" width="43.278" height="24.049" ry="1.1317" fill="#00a2ef" stroke-width=".97193"/>
-  </g>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <path d="m60 52h-56v1c0 1.108 0.892 2 2 2h52c1.108 0 2-0.892 2-2v-1z" fill="#0082e5"/>
+  <path d="m6 9c-1.108 0-2 0.892-2 2v41h56v-41c0-1.108-0.892-2-2-2h-52z" fill="url(#linearGradient1103)"/>
+  <path d="m6 9c-1.108 0-2 0.892-2 2v41h12l25-43h-35z" fill="#fff" opacity=".15" style="-inkscape-stroke:none"/>
  </g>
 </svg>

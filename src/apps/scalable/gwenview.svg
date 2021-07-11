@@ -1,31 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="linearGradient873" x1="-48.646" x2="-32.772" y1="-6.3007" y2="9.574" gradientTransform="matrix(.91661 0 0 .91661 26.435 5.9498)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5a5a5a" offset="0"/>
-   <stop stop-color="#141414" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient26304" x1="-12.82" x2="-3.6035" y1="5.424" y2="14.726" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2aaeea" offset="0"/>
-   <stop stop-color="#a582e3" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient37398" x1="-8.0591" x2="-3.6378" y1="6.8043" y2="14.207" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#0376d2" offset="0"/>
-   <stop stop-color="#3f4d9a" offset="1"/>
-  </linearGradient>
- </defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g transform="translate(19.346 1.0164)">
-  <rect x="-18.155" y=".17449" width="14.551" height="14.551" ry=".72754" fill="url(#linearGradient873)" stroke-width=".91661"/>
-  <path d="m-8.0591 6.8043c-0.35068 0-0.70136 0.13438-0.97006 0.40309l-7.518 7.518h12.216c0.40306 0 0.72755-0.32449 0.72755-0.72755v-3.3048l-3.4857-3.4857c-0.26871-0.26871-0.61939-0.40309-0.97006-0.40309z" fill="url(#linearGradient37398)" stroke-width=".24252"/>
-  <path d="m-12.82 5.424c-0.2469 0-0.49384 0.094538-0.68302 0.28372l-4.6524 4.6524v3.6377c0 0.40306 0.32449 0.72755 0.72755 0.72755h13.096c0.32987 0 0.60411-0.2188 0.69391-0.51867l-8.499-8.499c-0.18919-0.18919-0.43612-0.28372-0.68302-0.28372z" fill="url(#linearGradient26304)" stroke-width=".24252"/>
-  <circle cx="-8.4542" cy="3.8121" r="1.2126" fill="#fff" stroke-width=".91661"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg21"
+   sodipodi:docname="kuickshow.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="936"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="4.2813106"
+     inkscape:cx="17.37719"
+     inkscape:cy="69.84923"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="linearGradient873"
+       x1="-48.646"
+       x2="-32.772"
+       y1="-6.3007"
+       y2="9.574"
+       gradientTransform="translate(1.0224,-0.57831)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#28afea"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#838be4"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0.91660823,0,0,0.91660823,44.843616,7.4962704)"
+     id="g19">
+    <rect
+       x="-47.624001"
+       y="-6.8790002"
+       width="15.875"
+       height="15.875"
+       ry="0.79373002"
+       fill="url(#linearGradient873)"
+       id="rect11"
+       style="fill:url(#linearGradient873)" />
+    <path
+       transform="scale(0.26458)"
+       d="m -138.37,1.3379 c -1.446,0 -2.892,0.55411 -4,1.6621 l -31,31 h 50.373 c 1.662,0 3,-1.338 3,-3 V 17.373 L -134.37,3 c -1.108,-1.108 -2.554,-1.6621 -4,-1.6621 z"
+       fill="#406ccd"
+       id="path13" />
+    <path
+       transform="scale(0.26458)"
+       d="m -158,-4.3535 c -1.0181,0 -2.0363,0.38982 -2.8164,1.1699 l -19.184,19.184 v 15 c 0,1.662 1.338,3 3,3 h 54 c 1.3602,0 2.491,-0.90221 2.8613,-2.1387 l -35.045,-35.045 c -0.7801,-0.7801 -1.7983,-1.1699 -2.8164,-1.1699 z"
+       fill="#13427e"
+       id="path15" />
+    <circle
+       cx="-37.041"
+       cy="-2.9103999"
+       r="1.3229001"
+       fill="#ffffff"
+       id="circle17" />
+  </g>
 </svg>
