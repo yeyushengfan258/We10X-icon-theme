@@ -9,7 +9,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 |:----------|:------------------------------------------------------------------------------|
 | -a        | Install all color versions                                                    |
 | -d        | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
-| -n        | Specify theme name (**Default:** _Tela_)                                      |
+| -n        | Specify theme name (**Default:** _We10X_)                                      |
 | -h        | Show this help                                                                |
 
 ## view
@@ -17,4 +17,3 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 ![view](View-2.png?raw=true)
 ![view](View-3.png?raw=true)
 ![view](View-4.png?raw=true)
-
