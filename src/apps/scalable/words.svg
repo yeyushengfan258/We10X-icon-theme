@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-64.869 -16.186)">
+  <rect x="79.409" y="22.788" width="43.001" height="50" ry="3.9297" fill="#ffc107" stroke-linecap="round" stroke-width="3.4322"/>
+  <rect x="71.329" y="18.186" width="43.001" height="60.001" ry="4.7154" fill="#e4e4e4" stroke-linecap="round" stroke-width="3.7598"/>
+  <g fill="#c2c2c2" stroke-width="3.7796">
+   <rect x="79.33" y="27.252" width="27.001" height="2.0001" ry="1"/>
+   <rect x="79.33" y="33.76" width="27.001" height="2.0001" ry="1"/>
+   <rect x="79.33" y="40.27" width="17" height="2.0001" ry="1"/>
+  </g>
+  <path d="m80.434 42.621 1.4567-1.3294-1.0548-0.35169c-0.44531-0.15156-0.87203 0.27398-0.72266 0.71998z" fill="#191919" stroke-width=".044395"/>
+  <path d="m90.661 44.209-8.7717-2.9262-1.4567 1.3294 2.9562 8.8715z" fill="#cdcdcd" stroke-width=".044395"/>
+  <path d="m112.41 70.397c0.75377-1.8572 0.37691-4.068-1.1294-5.5745l-20.612-20.609-7.2712 7.2723 20.608 20.613c2.0087 2.0091 5.265 2.0084 7.2735-0.0012 0.50235-0.50197 0.88005-1.0816 1.1313-1.7007z" fill="#323232" stroke-width=".044391"/>
+ </g>
+</svg>
