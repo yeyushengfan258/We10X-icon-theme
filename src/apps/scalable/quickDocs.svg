@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient865" x1="8.8152" x2="8.7827" y1="24.071" y2="-4.8501" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4d7280" offset="0"/>
+   <stop stop-color="#adbdc2" offset="1"/>
+  </linearGradient>
+  <filter id="filter1046" x="-.39752" y="-.39752" width="1.795" height="1.9148" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".81109" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="2.4793367866847822"/>
+   <feOffset dx="0" dy="2.3952680811036746" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="linearGradient873" x1="-41.43" x2="-41.43" y1="-6.3007" y2="9.5743" gradientTransform="matrix(3.4644 0 0 3.4644 173.03 26.329)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#333" offset="0"/>
+   <stop stop-color="#484848" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4" y="3.9686" width="56.002" height="56.002" rx="13.002" ry="13.002" display="none" fill="url(#linearGradient865)" stroke-width="3.7796"/>
+ <rect x="4.5012" y="4.5012" width="54.998" height="54.998" ry="2.7498" fill="url(#linearGradient873)" stroke-width="3.4644"/>
+ <rect x="9" y="9" width="46" height="46" ry="2.2999" fill="#202020" stroke-width="2.8976"/>
+ <g transform="matrix(1.2194 0 0 1.2194 -5.7379 -2.5583)" fill="none" filter="url(#filter1046)" shape-rendering="auto" stroke="#fff" stroke-width="4">
+  <path d="m31.974 38.279h0.94727c4.432 0 8.0264-3.568 8.0264-8v-4c0-4.432-3.5944-8-8.0264-8h-0.94727" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m27.949 18.279h-7.002v20h6.998" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>
