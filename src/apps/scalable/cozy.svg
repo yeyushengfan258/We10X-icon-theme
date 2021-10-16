@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1053" x1="68" x2="128" y1="62" y2="2" gradientTransform="matrix(.91665 0 0 .91665 -57.832 2.6667)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5102d" offset="0"/>
+   <stop stop-color="#ff4b00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="2.75" fill="url(#linearGradient1053)" stroke-width="3.4646"/>
+ <path d="m32 16.152c-8.4282 0-15.261 8.4091-15.261 18.782v2.3478c0 3.89 3.1534 7.0434 7.0434 7.0434v-14.087c-0.99331 0.0033-1.9747 0.21656-2.8797 0.62592 1.6047-6.6724 6.0679-11.191 11.097-11.191 5.0295-2.4e-5 9.4924 4.5178 11.097 11.191-0.90508-0.40969-1.8865-0.62569-2.8796-0.62569v14.087c3.89 0 7.0434-3.1534 7.0434-7.0434v-2.3478c0-10.374-6.8321-18.782-15.261-18.782zm-5.8695 10.565v2.3478h11.739v-2.3478zm0 4.6956v2.3478h11.739v-2.3478zm0 4.6956v2.3478h11.739v-2.3478zm0 4.6956v2.3478h11.739v-2.3478zm0 4.6956v2.3478h11.739v-2.3478z" fill="#fff" stroke-width="1.1739"/>
+</svg>
