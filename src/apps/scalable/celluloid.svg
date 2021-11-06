@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient891" x1="2" x2="62" y1="32" y2="32" gradientTransform="matrix(3.4889 0 0 3.4889 16.174 -1.8575)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f55055" offset="0"/>
+   <stop stop-color="#eb1e32" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m4.75 4.5c-1.5235 0-2.75 1.2265-2.75 2.75v49.5c0 1.5235 1.2265 2.75 2.75 2.75h54.5c1.5235 0 2.75-1.2265 2.75-2.75v-49.5c0-1.5235-1.2265-2.75-2.75-2.75z" fill="url(#linearGradient891)" stroke-linecap="round" stroke-width="2"/>
+ <path d="m7 9v5h4v-5zm46 0v5h4v-5zm-46 9v4h4v-4zm46 0v4h4v-4zm-46 8v4h4v-4zm46 0v4h4v-4zm-46 8v4h4v-4zm46 0v4h4v-4zm-46 8v4h4v-4zm46 0v4h4v-4zm-46 8v5h4v-5zm46 0v5h4v-5z" opacity=".3"/>
+ <rect x="17" y="43" width="30" height="3" rx="1.5" ry="1.5" fill="#f9f9f9" opacity=".5" stroke-width="1.3693" style="paint-order:normal"/>
+ <circle cx="24.5" cy="44.5" r="3.5" fill="#fff" stroke-width="1.1667" style="paint-order:normal"/>
+ <path d="m32 17c-5.5229 0-10 4.4771-10 10s4.4771 10 10 10 10-4.4771 10-10-4.4771-10-10-10zm-3 4 9 6-9 6z" fill="#fff" stroke-width="1.25" style="paint-order:normal"/>
+</svg>
