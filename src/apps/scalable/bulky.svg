@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1983" x1="-22.489" x2="-6.6145" y1="5.8207" y2="5.8207" gradientTransform="matrix(3.7795 0 0 3.7797 86.998 10)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#343d47" offset="0"/>
+   <stop stop-color="#566375" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="2" y="7" width="60" height="50" ry="4.0001" fill="url(#linearGradient1983)" stroke-width="3.7796"/>
+ <image x="9.6632" y="17.319" width="46" height="35" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAjCAYAAADrJzjpAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAuNJREFUWIW9mOtyqzAMhEXgnPd/ 34a4P8omnxfJITSpZjz2cDHr9epipvisTSfeaUceWk5MfMSmoh+ZAx4u4BPABfKyjdkqE8jbNm52 fWefYvyytXlrz8C3+AG9ov9Txglw3uZftjF3gIAF+hYR1609ZX0E/Ixj6T0yLvAXNNkNTSzf4rHA hn4IfCrGRwGrz7StBUk6BNPs3UvkjN/HBF451avgyXhEz+CE65LDGg9tt+iBT7iueRqBuzb14d+C 14fobLonTa+4r+8TvBYVmKM545VDhb04Au3mDigQrm1fLCPNdXvnTsASeST4Hw+HOgq6ArzGHjzB cSecLO1KRC+XncYv8WB8sQnoUBWzPh71DpxjgaefrPxupnGGLbJE0BX7ngHpdALkoJs9I6PWd/7m jLN5NvPnKuDULt9liOPzqz0/R8S/6Bl3fK1KQO5Mt+h3opKKJJUB1zMuDXdQzUHQO8uAZzqk/uVA gQUQxNcGJKKPIhXj7rSBBZfgR4x7JlziZwsVbbKaY0XPRbGvvqdGPyjtaJGVOa7LRQ52NnGRrLcB 9y2NyBlnBHo17nudNFx4BTwDpURA7WUaVxr3mD8CkhVmp4D7ZKyX6US0LK1n4Sz7BuWlw0cVvYbA vYqTsYLLjA42Yy4twstcD3us4QWe4TQF7jGWkz5L9zTPeJ51aV4NzlEz3pUIS3KR2+2MPKtVyCYT yorrWRNQAmf23jm8My4dC2xVHR6NGO6YLpNMOhF96atzaFfPLNHLg4ljjffV47rnBRPrIi/KvB5n edyccabqd52AsuTFHZ0Bisc0rzC7XxbUOHueE8+CppPNsdevz+1VYraYO0ZnfMIDZ0Crn9E7065r hc2M8fLPlsfxV9N09m52WCAwmh9SssiW4hplzjOL8BC24tqRP1nunCWOd/+C8wil8TWOnZz8H0tJ 3qd+enKLxfrIZxgUDlWWrzrgUasSz8hcGkPwnwL+m/kP+dY3vz98X20SGD8AAAAASUVORK5CYII= "/>
+ <g stroke-width="1.3044">
+  <path d="m15.043 24.174c-0.72261 0-1.3043 0.58174-1.3043 1.3043v13.043c0 0.72261 0.58174 1.3043 1.3043 1.3043h19.565v-2.6087h-18.261v-10.435h18.261v-2.6087zm27.391 0v2.6087h5.2174v10.435h-5.2174v2.6087h6.5217c0.72261 0 1.3043-0.58174 1.3043-1.3043v-13.043c0-0.72261-0.58174-1.3043-1.3043-1.3043zm-23.478 5.2174v5.2174h11.739v-5.2174z" fill="#f9f9f9"/>
+  <path d="m32.652 18.957c-0.3613 0-0.65217 0.29087-0.65217 0.65217v1.3043c0 0.3613 0.29087 0.65217 0.65217 0.65217h4.5652v20.87h-4.5652c-0.3613 0-0.65217 0.29087-0.65217 0.65217v1.3043c0 0.3613 0.29087 0.65217 0.65217 0.65217h11.739c0.3613 0 0.65217-0.29087 0.65217-0.65217v-1.3043c0-0.3613-0.29087-0.65217-0.65217-0.65217h-4.5652v-20.87h4.5652c0.3613 0 0.65217-0.29087 0.65217-0.65217v-1.3043c0-0.3613-0.29087-0.65217-0.65217-0.65217z" fill="#fcefbb"/>
+ </g>
+</svg>
