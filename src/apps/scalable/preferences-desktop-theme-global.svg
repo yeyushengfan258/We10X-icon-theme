@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter954" x="-.18" y="-.18" width="1.36" height="1.36" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.11906016"/>
+  </filter>
+  <filter id="filter962" x="-.18" y="-.18" width="1.36" height="1.36" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.11906016"/>
+  </filter>
+  <linearGradient id="linearGradient856" x1="-73.361" x2="-58.736" y1="6.9799" y2="17.198" gradientTransform="translate(75.14 -.76949)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3c3c3c" offset="0"/>
+   <stop stop-color="#1e1e1e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient908" x1="-70.642" x2="-70.642" y2="2.6738" gradientTransform="translate(75.14 -.13229)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1e1e1e" offset="0"/>
+   <stop stop-color="#3c3c3c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient922" x1="-62.705" x2="-62.705" y2="3.8515" gradientTransform="translate(75.14 -.13229)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1e1e1e" offset="0"/>
+   <stop stop-color="#3c3c3c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(3.4541 0 0 3.4541 2.7557 2.7556)">
+  <rect x=".52901" y="3.6552" width="15.875" height="11.641" ry=".52916" fill="#505050"/>
+  <rect x="3.7039" y="3.7284" width="1.5875" height="1.5875" ry="0" filter="url(#filter954)" opacity=".5"/>
+  <rect x="11.641" y="3.7284" width="1.5875" height="1.5875" ry="0" filter="url(#filter962)" opacity=".5"/>
+  <path d="m3.704 3.1992v1.5875h-2.6458c-0.29315 0-0.52916 0.236-0.52916 0.52916v10.583c0 0.29315 0.236 0.52916 0.52916 0.52916h14.816c0.29315 0 0.52916-0.236 0.52916-0.52916v-10.583c0-0.29315-0.236-0.52916-0.52916-0.52916h-2.6458v-1.5875h-1.5875v1.5875h-6.3499v-1.5875z" fill="url(#linearGradient856)"/>
+  <g transform="translate(-.00015001 .63731)">
+   <path d="m5.2916 2.5619v-2.6942l-1.5875 1.3229v1.3713z" fill="url(#linearGradient908)"/>
+   <path d="m11.641 2.5619v-2.6942l1.5875 1.3229v1.3713z" fill="url(#linearGradient922)"/>
+   <rect x="5.2916" y="-.13229" width="6.3499" height="1.5875" ry="0" fill="#1e1e1e"/>
+  </g>
+  <g transform="translate(-11.957 -.55573)">
+   <path d="m21.708 8.001-0.82165 0.82165 1.6433 1.6433-1.6433 1.6433 0.82165 0.82165 2.465-2.465-0.82165-0.82165z" fill="#81b901" stroke-width=".23761"/>
+   <circle cx="18.863" cy="8.4391" r=".47517" fill="#f44e24" stroke-width=".79373"/>
+   <circle cx="17.528" cy="11.26" r=".85446" fill="#00a2ef" stroke-width="1.4273"/>
+   <circle cx="19.664" cy="14.151" r="1.2599" fill="#ffb800" stroke-width="2.1046"/>
+  </g>
+ </g>
+</svg>
