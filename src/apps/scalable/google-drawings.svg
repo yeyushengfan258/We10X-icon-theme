@@ -5,13 +5,12 @@
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
    </cc:Work>
   </rdf:RDF>
  </metadata>
  <defs>
   <style type="text/css"/>
-  <linearGradient id="linearGradient889" x1="-37.488" x2="-31.596" y1="5.903" y2="11.794" gradientTransform="matrix(4.1232 0 0 4.1232 176.54 -2.3642)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient889" x1="-37.488" x2="-31.596" y1="5.903" y2="11.794" gradientTransform="matrix(3.7795 0 0 3.7795 164.49 .50001)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ff4b00" offset="0"/>
    <stop stop-color="#f50f2d" offset="1"/>
   </linearGradient>
@@ -154,8 +153,7 @@
    <circle cx="-281.14" cy="-337.78" r="0"/>
   </g>
  </g>
- <rect x="1.9995" y="1.9995" width="60.001" height="60.001" ry="3.2727" fill="url(#linearGradient889)" stroke-width="3.7796"/>
- <rect x="6.8489" y="34.354" width="29.857" height="22.797" ry="2.8001" fill="#f5f5f5" stroke-width="1.6434"/>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="2.9999" fill="url(#linearGradient889)" stroke-width="3.4646"/>
  <g transform="matrix(3.7796 0 0 3.7796 .18844 .62562)" fill="#5e4aa6" stroke-width=".26458">
   <circle cx="-272.57" cy="-354.73" r="0"/>
   <circle cx="18.337" cy="-19.912" r="0" fill-rule="evenodd"/>
@@ -272,9 +270,12 @@
 	.st108{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st109{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
  <g fill="#f5f5f5">
-  <circle cx="42.42" cy="31.719" r="15.019"/>
-  <circle cx="8.489" cy="7.5794" r="1.6401"/>
-  <circle cx="13.37" cy="7.5794" r="1.6401"/>
-  <circle cx="18.25" cy="7.5794" r="1.6401"/>
+  <circle cx="41" cy="31" r="13" stroke-width=".86557"/>
+  <g stroke-width="1.2194">
+   <circle cx="10" cy="10" r="2"/>
+   <circle cx="16" cy="10" r="2"/>
+   <circle cx="22" cy="10" r="2"/>
+  </g>
+  <path d="m14 30c-2.216 0-4 1.784-4 4v17c0 2.216 1.784 4 4 4h17c2.216 0 4-1.784 4-4v-5.2051a16 16 0 0 1-10-14.795 16 16 0 0 1 0.070312-1h-11.07z" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".98375"/>
  </g>
 </svg>
