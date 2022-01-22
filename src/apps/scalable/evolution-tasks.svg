@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient889" x1="-37.488" x2="-31.596" y1="5.903" y2="11.794" gradientTransform="matrix(.99997 0 0 .99997 65.329 5.549)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#272727" offset="0"/>
+   <stop stop-color="#424242" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient904" x1="-42.332" x2="-35.057" y1="1.0583" y2="8.3342" gradientTransform="matrix(.50908 0 0 .50908 51.691 13.212)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fffaee" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-21.738 -5.3952)">
+  <rect x="22.997" y="6.6073" width="14.552" height="14.552" ry=".79372" fill="url(#linearGradient889)" stroke-width=".91665"/>
+  <image x="29.032" y="12.688" width="9.2602" height="9.2602" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAYxJREFUWIW918lOwzAQgOE/Cwgo PXKB9380KBIti6BNoVk4zLg2UUTTxJ6RokkX1Z/GYzfO8JHpRZBTRTeUw8ELoNScJwZ1QAPUmlug KwPIFbAEFsBlQkyniD3wBeyAH5BKZJqXwD1wB1wrMBYonI4a2AKvSEW+dZyu1C+VwK1CHvS+iAQJ QQekEh3wrtlBj5XJkam5UcgiMsZVpAYq4EMxWwUeewb8Sip611yAy40i3oBnYIVM004/A6QiLjL+ Lu8YEfbIBnjUa63v1QRTlQ//RhTEKciBXs+kwEyCpMBMhsTGzILExMyGxMJEgcTARIOA7MCxIGvg aSpkDmYI4iqymQKZivkPMrizjo1zeyYZ5FxMUsg5mOSQsRgTyBiMGeQUxhQyBmMGgeF9xg3QWEKG MG6AA3KuMYP0MWGP1MgDsxkkxPSbtUKe4M0gIYYA0iJnmpUlBPwRtkAOcQCfwAv+39cEAr4yNXII b/GrqLKEgD+05cCF4lpkNTWWEIcJUe51q9kMEmL696YIF78owE6bqv3D3gAAAABJRU5ErkJggg== "/>
+  <path d="m37.549 13.751h-0.40409-6.5999c-0.22385 0-0.4041 0.18024-0.4041 0.4041v7.004z" fill="url(#linearGradient904)" stroke-width=".91665"/>
+  <path d="m37.549 13.751-7.4081 7.4081h6.5624c0.27158 0 0.84562-0.08235 0.84562-0.99606v-6.412z" fill="#3d3d3d" stroke-width=".91665"/>
+ </g>
+</svg>

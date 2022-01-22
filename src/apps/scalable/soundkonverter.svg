@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient9787">
+   <stop stop-color="#94dc13" offset="0"/>
+   <stop stop-color="#1cb130" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a-3" x1="32" x2="32" y1="2" y2="62" gradientTransform="translate(.25274 .81328)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5faff" offset="0"/>
+   <stop stop-color="#cfdef0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient9789" x1="38.176" x2="27.882" y1="9.6827" y2="53.103" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient9787"/>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="url(#a-3)" style="paint-order:stroke markers fill"/>
+ <g transform="translate(1.4313 2.8007)" fill="url(#linearGradient9789)">
+  <g transform="matrix(.78066 0 0 .78066 -2.4744 .1913)">
+   <path d="m35.816 36.286s-5.3056-27.653-3.4873-28.332 4.2385-0.4557 11.951 6.2009c7.712 6.6566-8.8334-0.25254-8.8334-0.25254s5.1522 28.236 4.7583 30.859-4.3881-8.4754-4.3881-8.4754z"/>
+   <circle cx="29.297" cy="44.957" r="11" style="paint-order:stroke fill markers"/>
+  </g>
+  <g transform="matrix(-.78066 0 0 -.78066 63.612 58.207)">
+   <path d="m35.816 36.286s-5.3056-27.653-3.4873-28.332 4.2385-0.4557 11.951 6.2009c7.712 6.6566-8.8334-0.25254-8.8334-0.25254s5.1522 28.236 4.7583 30.859-4.3881-8.4754-4.3881-8.4754z"/>
+   <circle cx="29.297" cy="44.957" r="11" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>

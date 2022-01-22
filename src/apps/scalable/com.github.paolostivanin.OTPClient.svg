@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient835" x1="-738.76" x2="-738.76" y1="931.43" y2="152.13" gradientTransform="matrix(.066804 0 0 .066804 80.249 -2.3478)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dfe3e8" offset="0"/>
+   <stop stop-color="#fefeff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.066804 0 0 .066804 80.249 -2.3478)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ccd4da" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient994" x1="32.002" x2="32.002" y1="14.393" y2="49.085" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff4b00" offset="0"/>
+   <stop stop-color="#f50f2d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient825)" stroke-width=".48876"/>
+ <circle cx="32" cy="32" r="26.926" fill="url(#linearGradient835)" stroke-width=".48876"/>
+ <path d="m32.001 14.393c-0.35234 0-3.2447-0.13289-6.069 1.2427-2.1611 1.0525-0.56385 4.2513 1.5728 3.1503 1.8736-0.96613 3.6743-0.87104 4.4961-0.87104 7.8651 0 14.087 6.2217 14.087 14.087 1.03e-4 7.8652-6.2219 14.087-14.087 14.087s-14.086-6.2214-14.087-14.087c-1.65e-4 -0.82082-0.09454-2.6219 0.87127-4.4962 1.1011-2.1368-2.0978-3.7339-3.1503-1.5728-1.375 2.8244-1.2422 5.7158-1.2421 6.0691 0.0019 9.7431 7.8653 17.609 17.609 17.609 9.7434 0 17.609-7.8652 17.609-17.609-1.27e-4 -9.7435-7.8653-17.609-17.609-17.609z" fill="url(#linearGradient994)" stroke-width="1.1739"/>
+ <g fill="#00b4ff" stroke-width="1.1739">
+  <rect x="29.647" y="22.611" width="4.6957" height="18.783" ry="2.3478" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(240)" x="-46.06" y="2.3163" width="4.6957" height="18.783" ry="2.3478" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(120)" x="9.369" y="-53.102" width="4.6957" height="18.783" ry="2.3478" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

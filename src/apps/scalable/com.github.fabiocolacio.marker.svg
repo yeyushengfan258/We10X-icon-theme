@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g transform="translate(-18.505 -3.6327)">
-  <rect x="22.352" y="5.3796" width="11.377" height="13.229" ry="1.0397" fill="#ffc107" stroke-linecap="round" stroke-width=".90809"/>
-  <rect x="20.214" y="4.1619" width="11.377" height="15.875" ry="1.2476" fill="#e4e4e4" stroke-linecap="round" stroke-width=".99476"/>
-  <g fill="#c2c2c2">
-   <rect x="22.331" y="6.5607" width="7.1438" height=".52917" ry=".26458"/>
-   <rect x="22.331" y="8.2826" width="7.1438" height=".52917" ry=".26458"/>
-   <rect x="22.331" y="10.005" width="4.4979" height=".52917" ry=".26458"/>
+ <defs>
+  <linearGradient id="linearGradient8945" x1="3.8726" x2="4.7592" y1="-3.2832" y2="-2.3964" gradientTransform="matrix(0 1.2095 -1.2095 0 12.368 2.6035)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bdc2cf" offset="0"/>
+   <stop stop-color="#eaf0f5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient26151" x1="4.9973" x2="6.1075" y1="-4.6548" y2="-3.5313" gradientTransform="matrix(0 1.2095 -1.2095 0 12.368 2.6035)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1f2626" offset="0"/>
+   <stop stop-color="#313332" offset=".11589"/>
+   <stop stop-color="#1a252e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="3.847" y="1.7469" width="11.377" height="13.229" ry="1.0397" fill="#ffc107" stroke-linecap="round" stroke-width=".90809"/>
+ <rect x="1.709" y=".5292" width="11.377" height="15.875" ry="1.2476" fill="#e4e4e4" stroke-linecap="round" stroke-width=".99476"/>
+ <g transform="translate(-18.505,-3.6327)" fill="#c2c2c2">
+  <rect x="22.331" y="6.5607" width="7.1438" height=".52917" ry=".26458"/>
+  <rect x="22.331" y="8.2826" width="7.1438" height=".52917" ry=".26458"/>
+  <rect x="22.331" y="10.005" width="4.4979" height=".52917" ry=".26458"/>
+ </g>
+ <g transform="translate(-10.049 .062636)">
+  <image transform="rotate(90)" x="6.2874" y="-24.183" width="10.583" height="10.583" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAfxJREFUWIXN2GlTwjAQgOG3XHKI qPz/n+iFIoql9UN2zTZSBEkaMtMhPWif2TRJNwV5S2Hq9b4L+h1BwlIAPXn+gCa0UXIAFTcCpsAE GMq5Kry4a6DF3QD3wC0wlnOVbD/N3SVQcVeCWwpwLsC+wEpgp38aZMDNBXYHzMSwM8CdbFug7iKC h3BDfGfpyaa4L6BOHcEQtxTc1ODARa4vx0aYnp0SGL5zGrkQp8ASF7mt1GuCi3LhKlxzvgPPwAvw IceTNHEbTjtEG+4JeATe5FitN7sU3APwCnxixsKYwOi4mMAkuFjAZLgYwKS4c4HJcecA9038t7Fx /wXuw+kgHBX3H6DFLWjOENFxpwIP4YbBvaLgTgFmwR0LVNyYZodIjjsGmBX3FzA77hDwInBtwIvB we8v6rYZIguuDTgErgW2OIArU+NCYIHLrCa46N3gE2pbFLfGf6YnwUEzq9PozQQ3CXA1PvuyuFUq nAVq9Ma45p3h8tOePFQXdWyzJseFwAEuajNcJxngo6bLERtcatgJLgTa5TDN7BW3FdwKF71k79w+ YIGP4IjmKlOJS6LXglrh8tZtFzgFgl+4KQS1Mb9rQa0Fq0l1cpwFgovIOz4ynwLcSP0L19ydwEJg hYtOjV8CKwVVGnSnOPCzgw4zuq+YyuxnKUVLHTKibPkGS9ctu/ZmdVcAAAAASUVORK5CYII= "/>
+  <g stroke-width="1.2095">
+   <path d="m15.378 7.0299s-0.41936-0.2754-0.53191-0.1568c-0.11255 0.1186 0.2093 0.47265 0.2093 0.47265z" fill="#16212e"/>
+   <path d="m17.05 7.6632s-1.4456-0.79222-1.6188-0.70012c-0.20632 0.10972-0.48635 0.45795-0.50487 0.52561-0.01852 0.06765 0.55857 1.3231 0.69548 1.547z" fill="url(#linearGradient8945)"/>
+   <path d="m17.05 7.6632 6.989 7.066s-0.24451 0.73983-1.3695 1.3747l-7.0478-7.0683z" fill="url(#linearGradient26151)"/>
   </g>
-  <path d="m22.623 10.627 0.3854-0.35174-0.27908-0.09305c-0.11782-0.0401-0.23072 0.07249-0.1912 0.19049z" fill="#191919" stroke-width=".011746"/>
-  <path d="m25.329 11.047-2.3208-0.77421-0.3854 0.35174 0.78214 2.3472z" fill="#cdcdcd" stroke-width=".011746"/>
-  <path d="m31.084 17.976c0.19943-0.49137 0.09972-1.0763-0.29883-1.4749l-5.4534-5.4527-1.9238 1.9241 5.4524 5.4538c0.53146 0.53157 1.393 0.53139 1.9244-3.17e-4 0.13291-0.13281 0.23284-0.28617 0.29931-0.44996z" fill="#323232" stroke-width=".011745"/>
  </g>
 </svg>
