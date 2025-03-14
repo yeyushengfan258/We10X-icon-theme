@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="dock.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.15625"
+     inkscape:cx="-35.736041"
+     inkscape:cy="37.360406"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       x1="14.679"
+       x2="2.293"
+       y1="293.79"
+       y2="282.98"
+       gradientTransform="matrix(0.99998,0,0,1.0434,-18.780674,-292.59)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#66bcff"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#b29aff"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1229"
+       x1="17"
+       x2="17"
+       y1="7"
+       y2="51"
+       gradientTransform="matrix(0.30066,0,0,0.30066,21.489939,-1.6691727)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#6c7378"
+         offset="0"
+         id="stop1-3" />
+      <stop
+         stop-color="#42464a"
+         offset="1"
+         id="stop2-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1242"
+       x1="-9"
+       x2="45"
+       y1="50"
+       y2="50"
+       gradientTransform="matrix(0.30066,0,0,0.30066,21.489939,-1.6691727)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#a1aab3"
+         offset="0"
+         id="stop3" />
+      <stop
+         stop-color="#818990"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g14"
+     transform="translate(-18.435259,1.4329727)">
+    <rect
+       x="18.783998"
+       y="0.41902727"
+       width="16.235001"
+       height="13.229"
+       ry="0.61765999"
+       fill="url(#linearGradient1229)"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.60715"
+       style="fill:url(#linearGradient1229);paint-order:stroke fill markers"
+       id="rect6-7" />
+    <path
+       d="m 18.783999,12.098027 v 0.93224 c 0,0.34218 0.27557,0.61776 0.61776,0.61776 h 15 c 0.34219,0 0.61776,-0.27557 0.61776,-0.61776 v -0.93224 z"
+       fill="url(#linearGradient1242)"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.60131"
+       style="fill:url(#linearGradient1242);paint-order:stroke fill markers"
+       id="path6" />
+    <g
+       fill="#ffffff"
+       stroke-width="0.79999"
+       id="g10"
+       transform="translate(18.435239,-1.4329727)">
+      <rect
+         x="1.6291"
+         y="13.777"
+         width="1.0583"
+         height="1.0583"
+         ry="0.10583"
+         style="paint-order:stroke markers fill"
+         id="rect7-5" />
+      <rect
+         x="5.9987998"
+         y="13.777"
+         width="1.0583"
+         height="1.0583"
+         ry="0.10583"
+         style="paint-order:stroke markers fill"
+         id="rect8-3" />
+      <rect
+         x="7.5616002"
+         y="13.777"
+         width="1.0583"
+         height="1.0583"
+         ry="0.10583"
+         style="paint-order:stroke markers fill"
+         id="rect9-5" />
+      <rect
+         x="9.1245003"
+         y="13.777"
+         width="1.0583"
+         height="1.0583"
+         ry="0.10583"
+         style="paint-order:stroke markers fill"
+         id="rect10-6" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1083" x1="-1.2008" x2="13.175" y1="7.4152" y2="13.322" gradientTransform="matrix(1.1043 0 0 1.3437 1.8552 -5.4657)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e1e5ea" offset="0"/>
+   <stop stop-color="#c5cdd5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1031" x1=".80811" x2="16.125" y1="8.4665" y2="8.4665" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0082e5" offset="0"/>
+   <stop stop-color="#0098f6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x=".52916" y="4.4978" width="15.875" height="7.9373" ry=".26459" fill="url(#linearGradient1083)" stroke-width=".90661"/>
+ <g transform="matrix(.96732 0 0 .96764 .27662 .24714)">
+  <rect x=".80811" y="5.2131" width="15.317" height="6.5068" ry=".21689" fill="url(#linearGradient1031)" stroke-width=".8063"/>
+  <image x=".92445" y="5.69" width="15.081" height="6.0853" preserveAspectRatio="none" xlink:href="data:image/png;base64,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 "/>
+  <g fill="#fff" stroke-width=".77408">
+   <g transform="translate(0 -.95874)">
+    <rect x="1.1959" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="2.4043" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="3.6126" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="4.821" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="6.0293" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="7.2377" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="8.446" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="9.654" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="10.863" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="12.071" y="6.6237" width="1.024" height="1.024" ry="0"/>
+    <rect x="13.28" y="6.6237" width="2.4576" height="1.024" ry="0"/>
+   </g>
+   <g transform="translate(0 -.67382)">
+    <rect x="1.5031" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="2.7217" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="3.9403" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="5.1589" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="6.3775" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="7.5961" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="8.8146" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="10.033" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="11.252" y="7.8526" width="1.024" height="1.024" ry="0"/>
+    <rect x="13.689" y="7.8526" width="2.0481" height="1.024" ry="0"/>
+    <rect x="12.47" y="7.8526" width="1.024" height="1.024" ry="0"/>
+   </g>
+   <g transform="translate(0 -.3881)">
+    <rect x="1.196" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="2.4249" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="3.6537" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="4.8825" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="6.1113" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="7.3402" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="8.569" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="9.798" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="11.027" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="12.256" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="13.484" y="9.0807" width="1.024" height="1.024" ry="0"/>
+    <rect x="14.713" y="9.0807" width="1.024" height="1.024" ry="0"/>
+   </g>
+   <g transform="translate(0 -.10358)">
+    <rect x="1.1961" y="10.31" width="1.024" height="1.024" ry="0"/>
+    <rect x="2.425" y="10.31" width="1.024" height="1.024" ry="0"/>
+    <rect x="3.6538" y="10.31" width="1.024" height="1.024" ry="0"/>
+    <rect x="4.8826" y="10.31" width="7.1681" height="1.024" ry="0"/>
+    <rect x="12.256" y="10.31" width="1.024" height="1.024" ry="0"/>
+    <rect x="13.484" y="10.31" width="1.024" height="1.024" ry="0"/>
+    <rect x="14.714" y="10.31" width="1.024" height="1.024" ry="0"/>
+   </g>
+  </g>
+ </g>
+</svg>
