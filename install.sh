@@ -16,7 +16,7 @@ SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 THEME_NAME=We10X
 COLOR_VARIANTS=('' '-dark')
-THEME_VARIANTS=('' '-black' '-blue' '-green' '-orange' '-purple' '-red')
+THEME_VARIANTS=('' '-black' '-blue' '-green' '-orange' '-purple' '-red' '-special')
 
 themes=()
 colors=()
@@ -28,7 +28,7 @@ cat << EOF
   OPTIONS:
     -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
     -n, --name NAME         Specify theme name (Default: $THEME_NAME)
-    -t, --theme VARIANT     Specify theme color variant(s) [default|black|blue|green|orange|purple|red|all] (Default: blue)
+    -t, --theme VARIANT     Specify theme color variant(s) [default|black|blue|green|orange|purple|red|special|all] (Default: yellow)
     -a, --alternative       Install alternative icons for software center and file-manager
     -b, --bold              Install bolder panel icons version (1.5px size)
 
@@ -248,15 +248,15 @@ while [[ "$#" -gt 0 ]]; do
             themes+=("${THEME_VARIANTS[0]}")
             shift
             ;;
-          purple)
+          black)
             themes+=("${THEME_VARIANTS[1]}")
             shift
             ;;
-          pink)
+          blue)
             themes+=("${THEME_VARIANTS[2]}")
             shift
             ;;
-          red)
+          green)
             themes+=("${THEME_VARIANTS[3]}")
             shift
             ;;
@@ -264,20 +264,16 @@ while [[ "$#" -gt 0 ]]; do
             themes+=("${THEME_VARIANTS[4]}")
             shift
             ;;
-          yellow)
+          purple)
             themes+=("${THEME_VARIANTS[5]}")
             shift
             ;;
-          green)
+          red)
             themes+=("${THEME_VARIANTS[6]}")
             shift
             ;;
-          grey)
+          special)
             themes+=("${THEME_VARIANTS[7]}")
-            shift
-            ;;
-          nord)
-            themes+=("${THEME_VARIANTS[8]}")
             shift
             ;;
           all)
