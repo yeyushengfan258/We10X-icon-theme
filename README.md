@@ -1,6 +1,12 @@
 ## We10X Icon Theme
 A colorful design icon theme for all linux desktops!
 
+### Donate
+
+If you like my project, you can buy me a coffee:
+
+<span class="paypal"><a href="https://www.paypal.me/yeyushengfan258" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+
 ## Install
 
 Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
