@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="com.vysp3r.RetroPlus.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="5.9296875"
+     inkscape:cx="25.633729"
+     inkscape:cy="38.366271"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       x1="7.937"
+       x2="7.937"
+       y1="15.081"
+       y2="1.852"
+       gradientTransform="matrix(3.7796,0,0,3.7796,-8.7183652,-11.85868)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f1efeb"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#fdfcfc"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <path
+     fill="#1a1a1a"
+     d="m 13.982079,7.912523 -1.244414,6.018685 5.40183,0.0054 h 11.400444 c 5.510215,0 10.035603,4.525387 10.035603,10.035602 0,5.114143 -3.899166,9.373253 -8.864782,9.959332 l 2.325583,5.697546 q 0.02275,-0.0054 0.04416,-0.01338 l 5.941077,16.471769 h 6.147141 L 38.807484,37.007742 c 4.085159,-2.930396 6.789419,-7.704667 6.789419,-13.035579 0,-8.764426 -7.292538,-16.056964 -16.056964,-16.056964 H 18.140833 Z M 12.16229,16.607369 4,56.086091 h 6.147141 L 16.83219,23.703209 a 1.3380803,1.3380803 0 0 1 1.307305,-1.069126 h 11.400444 a 1.3380803,1.3380803 0 0 1 0,2.67616 H 19.23003 l -6.350529,30.775848 h 6.147141 l 3.731906,-18.080141 7.382189,18.080141 h 6.147141 L 27.159494,31.331605 h 2.380445 a 7.359442,7.359442 0 0 0 0,-14.718884 H 18.139495 Z m 42.924279,12.129698 -4.082483,0.004 -1.077155,5.887554 h -5.985233 l -0.73862,4.014241 h 5.989247 l -1.075816,5.891568 4.081145,-0.0027 1.077154,-5.887553 h 5.985234 L 60,34.629973 h -5.990586 z"
+     color="#000000"
+     style="stroke-width:1.33808;-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="path2" />
+</svg>
